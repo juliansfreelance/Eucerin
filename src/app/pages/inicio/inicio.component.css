@@ -1,0 +1,89 @@
+main {
+    background: url(../../../assets/img/portadaFondoLandscape.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.logo {
+    position: absolute;
+    width: 30vw;
+    margin: 20px;
+    right: 0px;
+    display: none;
+}
+
+.titulo {
+    text-align: center;
+    color: #fafafa;
+    padding: 0px;
+    position: absolute;
+    top: calc(70% - 60px);
+    transform: translateY(-50%);
+}
+
+.titulo img {
+    max-height: 80px;
+}
+
+.titulo p {
+    background: linear-gradient(to right, rgba(167, 10, 45, 0) 0%, rgba(167, 10, 45, 0.57) 20%, rgba(167, 10, 45, 1) 100%);
+    padding: 10px 0px;
+    font-family: 'eucerinBold';
+    font-size: 20px;
+}
+
+.titulo button {
+    font-family: 'eucerinBold';
+    font-size: 20px;
+    background: #2a3742;
+}
+
+.row {
+    margin: 0px;
+}
+
+span {
+    margin-right: 10px;
+}
+
+@media (orientation: portrait) {
+    main {
+        background: url(../../../assets/img/portadaFondoPotrait.png);
+        background-size: cover;
+        background-position: center -5%;
+    }
+    .titulo {
+        position: absolute;
+        top: calc(70% - 60px);
+        transform: translateY(-50%);
+    }
+}
+
+@media (max-width: 600px) {
+    .titulo p {
+        background: linear-gradient(to right, rgba(167, 10, 45, 0) 0%, rgba(167, 10, 45, 0.57) 20%, rgba(167, 10, 45, 1) 50%, rgba(167, 10, 45, 0.57) 80%, rgba(167, 10, 45, 0) 100%);
+    }
+}
+
+@media (max-width: 420px) and (orientation: portrait) {
+    .titulo img:nth-child(1) {
+        display: none;
+    }
+    .logo {
+        display: block;
+    }
+    .titulo {
+        position: absolute;
+        top: calc(80% - 60px);
+        transform: translateY(-50%);
+    }
+}
+
+@media (max-height: 420px) and (orientation: landscape) {
+    .titulo {
+        position: absolute;
+        top: calc(50% - 30px);
+        transform: translateY(-50%);
+    }
+}
