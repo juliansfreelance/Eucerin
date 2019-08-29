@@ -6,7 +6,16 @@ import { HeaderComponent } from './shared/header/header.component';
 import { InicioComponent } from './pages/inicio/inicio.component';
 import { MenuComponent } from './pages/menu/menu.component';
 import { FooterComponent } from './shared/footer/footer.component';
-import { VeinteComponent } from './pages/veinte/veinte.component';
+import { EdadtwentyComponent } from './pages/edadtwenty/edadtwenty.component';
+import { EdadthirtyComponent } from './pages/edadthirty/edadthirty.component';
+import { EdadfortyComponent } from './pages/edadforty/edadforty.component';
+import { AntipigmentoComponent } from './pages/antipigmento/antipigmento.component';
+import { GrasaComponent } from './pages/grasa/grasa.component';
+import { BebesComponent } from './pages/bebes/bebes.component';
+import { SensibleComponent } from './pages/sensible/sensible.component';
+import { HipersensibleComponent } from './pages/hipersensible/hipersensible.component';
+import { SecaComponent } from './pages/seca/seca.component';
+import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +24,16 @@ import { VeinteComponent } from './pages/veinte/veinte.component';
     InicioComponent,
     MenuComponent,
     FooterComponent,
-    VeinteComponent
+    EdadtwentyComponent,
+    EdadthirtyComponent,
+    EdadfortyComponent,
+    AntipigmentoComponent,
+    GrasaComponent,
+    BebesComponent,
+    SensibleComponent,
+    HipersensibleComponent,
+    SecaComponent,
+    ComplicacionesComponent
   ],
   imports: [
     BrowserModule
