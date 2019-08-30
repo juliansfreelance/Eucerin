@@ -1,0 +1,35 @@
+header .row {
+    margin: 0px;
+}
+
+header nav {
+    background: linear-gradient(to right, rgba(167, 10, 45, 1) 0%, rgba(167, 10, 45, .7) 100%)!important;
+}
+
+header .brand-logo p {
+    font-family: 'eucerinBold';
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 0px;
+    line-height: 1;
+}
+
+.navitem {
+    font-family: 'eucerinBold';
+    color: #2a3742;
+}
+
+@media (max-width: 350px) {
+    header .brand-logo {
+        font-size: 1.3rem;
+    }
+}
+
+.user-view {
+    height: 170px;
+    width: 100%;
+    background: url(../../../assets/img/eucerinLogo.png), url(../../../assets/img/portadaFondoPotrait.png);
+    background-position: 90% 90%, center;
+    background-repeat: no-repeat;
+    background-size: auto 35px, cover;
+}

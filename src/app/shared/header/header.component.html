@@ -1,36 +1,39 @@
 <header class="navbar-fixed">
-    <nav class="nav-extended" style="background: linear-gradient(to right,rgba(167,10,45,0.57) 0%, rgba(167,10,45,1) 100%);">
-        <div class="nav-wrapper">
-            <div class="container">
-                <a class="brand-logo">RUTINAS</a>
-                <a data-target="mobile-demo" class="sidenav-trigger right"><i class="material-icons">menu</i></a>
-                <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li>
-                        <a>Películas</a>
-                    </li>
-                    <li>
-                        <a>Personajes</a>
-                    </li>
-                    <li>
-                        <a>Tareas</a>
-                    </li>
-                </ul>
+    <nav class="row">
+        <div class="nav-wrapper col s12 valign-wrapper">
+            <div class="brand-logo center">
+                <p>RUTINAS</p>
             </div>
+            <a routerLink="/menu"><i class="material-icons waves-effect waves-light">navigate_before</i></a>
+            <a class="sidenav-trigger" data-target="slide-out"><i class="material-icons waves-effect waves-light">menu</i></a>
         </div>
     </nav>
 </header>
-<ul class="sidenav" id="mobile-demo">
-    <br><br><br>
+
+
+<ul id="slide-out" class="sidenav">
     <li>
-        <a class="sidenav-close"><i class="material-icons prefix">home</i>Inicio</a>
+        <div class="user-view"></div>
     </li>
-    <li>
-        <a class="sidenav-close"><i class="material-icons prefix">movie</i>Películas</a>
+    <li class="">
+        <ul class="collapsible collapsible-accordion">
+            <li>
+                <a class="collapsible-header navitem">ANTIEDAD<i class="material-icons right">arrow_drop_down</i></a>
+                <div class="collapsible-body">
+                    <ul>
+                        <li><a routerLink="/antiedad25" class="sidenav-close">EDAD 25 A 35 AÑOS</a></li>
+                        <li><a routerLink="/antiedad35" class="sidenav-close">EDAD 35 A 45 AÑOS</a></li>
+                        <li><a routerLink="/antiedad45" class="sidenav-close">EDAD +45 AÑOS</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
     </li>
-    <li>
-        <a class="sidenav-close"><i class="material-icons prefix">people</i>Personajes</a>
-    </li>
-    <li>
-        <a class="sidenav-close"><i class="material-icons prefix">watch</i>Tareas</a>
-    </li>
+    <li><a routerLink="/antipigmento" class="sidenav-close navitem">ANTIPIGMENTO</a></li>
+    <li><a routerLink="/pielgrasaomixta" class="sidenav-close navitem">PIEL GRASA O MIXTA</a></li>
+    <li><a routerLink="/bebesyniños" class="sidenav-close navitem">BEBES Y NIÑOS</a></li>
+    <li><a routerLink="/pielsensible" class="sidenav-close navitem">PIEL SENSIBLE</a></li>
+    <li><a routerLink="/pielhipersensible" class="sidenav-close navitem">PIEL HIPERSENSIBLE</a></li>
+    <li><a routerLink="/pielseca" class="sidenav-close navitem">PIEL SECA</a></li>
+    <li><a routerLink="/pielsecaysuscomplicaciones" class="sidenav-close navitem">PIEL SECA COMPLICACIONES</a></li>
 </ul>

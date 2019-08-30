@@ -1,11 +1,13 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+import { AppRoutingModule } from './app-routing.module';
+
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/header/header.component';
+import { FooterComponent } from './shared/footer/footer.component';
 import { InicioComponent } from './pages/inicio/inicio.component';
 import { MenuComponent } from './pages/menu/menu.component';
-import { FooterComponent } from './shared/footer/footer.component';
 import { EdadtwentyComponent } from './pages/edadtwenty/edadtwenty.component';
 import { EdadthirtyComponent } from './pages/edadthirty/edadthirty.component';
 import { EdadfortyComponent } from './pages/edadforty/edadforty.component';
@@ -36,7 +38,8 @@ import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.c
     ComplicacionesComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

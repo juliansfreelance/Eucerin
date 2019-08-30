@@ -6,18 +6,21 @@ header nav {
     background: linear-gradient(to right, rgba(167, 10, 45, 1) 0%, rgba(167, 10, 45, 0.57) 60%, rgba(167, 10, 45, 0) 90%)!important;
 }
 
-header .titulo .texto {
+header .brand-logo p {
     font-family: 'eucerinBold';
     font-size: 1.4rem;
     text-align: center;
+    margin: 0px;
+    line-height: 1;
+    align-self: center;
 }
 
-header .titulo .logo {
+header .logo {
     color: transparent;
     background: url(../../../assets/img/eucerinLogo.png);
     background-repeat: no-repeat;
     background-position: 90% center;
-    background-size: auto 70%;
+    background-size: auto 50%;
 }
 
 .menu .btn-large,
@@ -112,7 +115,7 @@ footer:before {
 }
 
 @media (max-width: 350px) {
-    header .titulo .texto {
-        font-size: 1.15rem;
+    header .brand-logo p {
+        font-size: 1.3rem;
     }
 }

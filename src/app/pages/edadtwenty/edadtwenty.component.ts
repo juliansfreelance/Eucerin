@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EdadtwentyComponent implements OnInit {
 
+  options = {};
   constructor() { }
 
   ngOnInit() {
+    const elems = document.querySelectorAll('.fixed-action-btn');
+    const instances = M.FloatingActionButton.init(elems, this.options);
   }
 
 }
