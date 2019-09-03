@@ -2,14 +2,18 @@
     <app-header></app-header>
     <main>
         <div class="container">
-            <div class="fixed-action-btn">
-                <a class="btn-floating btn-large red">
-                    <i class="large material-icons">more_vert</i>
-                </a>
-                <ul>
-                    <li><a routerLink="" class="btn-floating red"><i class="material-icons">home</i></a></li>
-                    <li><a routerLink="/menu" class="btn-floating yellow darken-1"><i class="material-icons">menu</i></a></li>
-                </ul>
+            <div class="row">
+                <p class="titulo">PREVENCIÓN ENVEJECIMIENTO<br>EDAD 25 A 35 AÑOS</p>
+                <div class="col s12">
+                    <ul class="tabs">
+                        <li class="tab col s6 materialize-eucerin-blue-text"><a href="#test1" class="active"><i class="material-icons">play_arrow</i> RUTINA FACIAL</a></li>
+                        <li class="tab col s6 materialize-eucerin-blue-text"><a href="#test2"><i class="material-icons">play_arrow</i> RUTINA CORPORAL</a></li>
+                    </ul>
+                </div>
+                <div class="row">
+                    <div id="test1" class="col s12">Test 1</div>
+                    <div id="test2" class="col s12">Test 2</div>
+                </div>
             </div>
         </div>
     </main>

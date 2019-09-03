@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import * as M from '../../../assets/js/materialize.min.js';
 
 @Component({
   selector: 'app-footer',
@@ -10,6 +11,7 @@ export class FooterComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    const instances = M.FloatingActionButton.init( document.querySelectorAll('.fixed-action-btn'), { hoverEnabled: false } );
   }
 
 }

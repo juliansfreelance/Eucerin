@@ -1,61 +1,64 @@
 @charset "UTF-8";
 @import "assets/css/materialize.css";
 ::-webkit-scrollbar {
-	width: 5px;
-	height: 5px;
+    width: 5px;
+    height: 5px;
 }
+
 ::-webkit-scrollbar-track {
-	background: transparent;
-	border: none;
-	border-radius: 0px;
+    background: transparent;
+    border: none;
+    border-radius: 0px;
 }
+
 ::-webkit-scrollbar-thumb {
-	background: rgba(0, 0, 0, .5);
-	border: none;
-	border-radius: 2.5px;
+    background: rgba(0, 0, 0, .5);
+    border: none;
+    border-radius: 2.5px;
 }
+
 ::-webkit-scrollbar-corner {
-	display:none;
+    display: none;
 }
+
 @font-face {
     font-family: 'eucerinBold';
-    src: url('assets/fonts/eucerin/eucerinbold-webfont.woff2') format('woff2'),
-         url('assets/fonts/eucerin/eucerinbold-webfont.woff') format('woff');
+    src: url('assets/fonts/eucerin/eucerinbold-webfont.woff2') format('woff2'), url('assets/fonts/eucerin/eucerinbold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'eucerinDemi';
-    src: url('assets/fonts/eucerin/eucerindemibold-webfont.woff2') format('woff2'),
-         url('assets/fonts/eucerin/eucerindemibold-webfont.woff') format('woff');
+    src: url('assets/fonts/eucerin/eucerindemibold-webfont.woff2') format('woff2'), url('assets/fonts/eucerin/eucerindemibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'eucerinMedium';
-    src: url('assets/fonts/eucerin/eucerinmedium-webfont.woff2') format('woff2'),
-         url('assets/fonts/eucerin/eucerinmedium-webfont.woff') format('woff');
+    src: url('assets/fonts/eucerin/eucerinmedium-webfont.woff2') format('woff2'), url('assets/fonts/eucerin/eucerinmedium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'eucerinRegular';
-    src: url('assets/fonts/eucerin/eucerinregular-webfont.woff2') format('woff2'),
-         url('assets/fonts/eucerin/eucerinregular-webfont.woff') format('woff');
+    src: url('assets/fonts/eucerin/eucerinregular-webfont.woff2') format('woff2'), url('assets/fonts/eucerin/eucerinregular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
+
 @font-face {
     font-family: 'icomoon';
-    src:  url('assets/fonts/icomoon/icomoon.eot?utmgrg');
-    src:  url('assets/fonts/icomoon/icomoon.eot?utmgrg#iefix') format('embedded-opentype'),
-      url('assets/fonts/icomoon/icomoon.ttf?utmgrg') format('truetype'),
-      url('assets/fonts/icomoon/icomoon.woff?utmgrg') format('woff'),
-      url('assets/fonts/icomoon/icomoon.svg?utmgrg#icomoon') format('svg');
+    src: url('assets/fonts/icomoon/icomoon.eot?utmgrg');
+    src: url('assets/fonts/icomoon/icomoon.eot?utmgrg#iefix') format('embedded-opentype'), url('assets/fonts/icomoon/icomoon.ttf?utmgrg') format('truetype'), url('assets/fonts/icomoon/icomoon.woff?utmgrg') format('woff'), url('assets/fonts/icomoon/icomoon.svg?utmgrg#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
-[class^="icon-"], [class*=" icon-"] {
+
+[class^="icon-"],
+[class*=" icon-"] {
     font-family: 'icomoon' !important;
     font-style: normal;
     font-weight: normal;
@@ -63,34 +66,118 @@
     text-transform: none;
     line-height: 1;
 }
+
 .icon-websphere:before {
     content: "\ea8d";
 }
+
 .icon-facebook:before {
     content: "\ea91";
 }
+
 .icon-instagram:before {
     content: "\ea92";
 }
+
 * {
-  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-  -webkit-user-select: none;
-  user-select: none;
-  cursor: default;
-  scrollbar-width: thin;
-  speak: none;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
+    scrollbar-width: thin;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
+
 body {
     font-family: 'eucerinRegular';
-    background:#EBEBEB;
+    background: #EBEBEB;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-  }
+}
 
-  main {
+main {
     flex: 1 0 auto;
-  }
-     
+}
+
+.row .subtitulo {
+    font-size: 1.2rem;
+    color: #a81830 !important;
+}
+
+.row .tituloRutinas {
+    font-size: 1.2rem;
+    color: #2a3742 !important;
+    margin: 12px 0px;
+    font-family: 'eucerinDemi';
+}
+
+.row .titulo {
+    font-size: 1.2rem;
+    color: #2a3742 !important;
+    font-family: 'eucerinBold';
+}
+
+
+/* masory */
+
+.cards-container {
+    column-break-inside: avoid;
+}
+
+.cards-container .card {
+    display: inline-block;
+    overflow: visible;
+}
+
+.card-content {
+    padding: 0px!important;
+}
+
+.card-content img {
+    width: 100%;
+}
+
+.card-content .card-title {
+    padding: 0px 18px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 359px) {
+    .cards-container {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+@media only screen and (min-width: 360px) {
+    .cards-container {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .cards-container {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+    }
+}
+
+@media only screen and (min-width: 993px) {
+    .cards-container {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+    }
+}
+
+.text-center {
+    text-align: center;
+}

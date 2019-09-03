@@ -1,0 +1,1368 @@
+{
+    "prod-1": {
+        "nombre": "DermoPure OIL CONTROL Gel Limpiador",
+        "subnombre": "",
+        "url": "prod-1",
+        "tipo": "",
+        "categorias": [
+            "Piel Grasa EUCERIN® DermoPure"
+        ],
+        "recomendaciones": "Limpieza Piel Grasa",
+        "beneficios": "Limpia eficazmente, elimina exceso de grasa, libre de jabón, no produce irritación, ni tirantez.",
+        "componentes": {
+            "titulo": [
+                "Ácido cítrico:",
+                "Ácido salicílico:",
+                "6% Anfóteros tensoactivos:",
+                "Propilenglicol:"
+            ],
+            "descripcion": [
+                "Exfolia naturalmente la piel eliminando las células muertas y acelerando la renovación celular",
+                "Elimina bacterias y desinflama.",
+                "Limpieza suave SIN detergente, no producen tirantez ni irritación.",
+                "Humecta y suaviza la piel."
+            ]
+        },
+        "presentaciones": "200 ml",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-2": {
+        "nombre": "DermoPure OIL CONTROL Agua Micelar",
+        "subnombre": "",
+        "url": "prod-2",
+        "tipo": "",
+        "categorias": [
+            "Piel Grasa EUCERIN® DermoPure",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Limpieza Piel Grasa",
+        "beneficios": "Limpia e hidrata la piel gracias a su contenido de glicerina.",
+        "componentes": {
+            "titulo": [
+                "Hialuronato y Arginina:"
+            ],
+            "descripcion": [
+                "Humectan y acondicionan la piel grasa."
+            ]
+        },
+        "presentaciones": "200 ml",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-3": {
+        "nombre": "DermoPure OIL CONTROL Exfoliante ",
+        "subnombre": "",
+        "url": "prod-3",
+        "tipo": "",
+        "categorias": [
+            "Piel Grasa EUCERIN® DermoPure"
+        ],
+        "recomendaciones": "Limpieza Piel Grasa",
+        "beneficios": "Limpia gentilmente destapando los poros, exterioriza comedones, remueve impurezas sin resecar ni irritar la piel.",
+        "componentes": {
+            "titulo": [
+                "Ácido láctico:",
+                "Partículas celulosas microcristalinas:"
+            ],
+            "descripcion": [
+                "Destapa los poros.",
+                "Limpian gentilmente y destapan los poros."
+            ]
+        },
+        "presentaciones": "100 ml",
+        "uso": "2 veces por semana."
+    },
+
+    "prod-4": {
+        "nombre": "DermoPure OIL CONTROL Tratamiento Intensivo Noche",
+        "subnombre": "",
+        "url": "prod-4",
+        "tipo": "",
+        "categorias": [
+            "Piel Grasa EUCERIN® DermoPure"
+        ],
+        "recomendaciones": "Cuidado Piel Grasa",
+        "beneficios": "Reduce significativamente la apariencia de las lesiones inflamatorias y comedones, ayudando a prevenir su reaparición;  eficacia comprobada vs P. acnes; reducción significativa del tamaño del poro.",
+        "componentes": {
+            "titulo": [
+                "Ácido salicílico:",
+                "Destapa los poros.",
+                "Gluconolactona:",
+                "Licochalcona A:",
+                "Pantenol:"
+            ],
+            "descripcion": [
+                "Destapa los poros.",
+                "Ayuda a reducir las manchas oscuras ocasionadas por el acné; también proporciona efectos de antienvejecimiento.",
+                "Fortalece la función de barrera de la piel, es hidratante y antioxidante.",
+                "Desinflama, suaviza  y calma la irritación de la piel ocasionada por el acné.",
+                "Regenera la piel."
+            ]
+        },
+        "presentaciones": "40 ml",
+        "uso": "Diario (Noche, después de la limpieza)"
+    },
+
+    "prod-5": {
+        "nombre": "DermoPure OIL CONTROL Hidratante Matificante",
+        "subnombre": "",
+        "url": "prod-5",
+        "tipo": "",
+        "categorias": [
+            "Piel Grasa EUCERIN® DermoPure"
+        ],
+        "recomendaciones": "Cuidado Piel Grasa",
+        "beneficios": "Matifica y mejora visiblemente la apariencia de la piel, refinando los poros, reduce lesiones e irritaciones, suavizando e hidratando la piel.\n No comedogénico.",
+        "componentes": {
+            "titulo": [
+                "Carnitina:",
+                "Ácido salicílico:",
+                "Decanediol:",
+                "Licochalcona A:",
+                "Almidón de tapioca:"
+            ],
+            "descripcion": [
+                "Regula la producción de grasa de la piel.",
+                "Destapa los poros. ",
+                "Previene el incremento  bacteriano de la piel.",
+                "Desinflama, suaviza y calma la irritación de la piel ocasionada por el acné.",
+                "Absorbe la grasa y reduce las dilataciones de la piel, brindando un efecto mate y sin brillo de hasta de 8 horas."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (mañana)."
+    },
+
+    "prod-6": {
+        "nombre": "DermoPure OIL CONTROL Cover Stick corrector",
+        "subnombre": "",
+        "url": "prod-6",
+        "tipo": "",
+        "categorias": [
+            "Piel Grasa EUCERIN® DermoPure"
+        ],
+        "recomendaciones": "Complemento Piel Grasa",
+        "beneficios": "Corrector de acción localizada, acelera el proceso queratolítico y cubre las lesiones.",
+        "componentes": {
+            "titulo": [
+                "Pigmentos verdes:",
+                "Ácido salicílico:",
+                "Bisabolol:"
+            ],
+            "descripcion": [
+                "Cubren el enrojecimiento ocasionado por la lesión.",
+                "Destapa los poros.",
+                "Calma y suaviza la piel."
+            ]
+        },
+        "presentaciones": "2,5 g",
+        "uso": "3 veces al día, sobre  lesiones."
+    },
+
+    "prod-7": {
+        "nombre": "DA Control Crema de Cuidado Intensivo",
+        "subnombre": "",
+        "url": "prod-7",
+        "tipo": "",
+        "categorias": [
+            "Piel Seca y sus complicaciones EUCERIN® DA Control"
+        ],
+        "recomendaciones": "Piel seca y sus complicaciones.\n Cuidado fase aguda.",
+        "beneficios": "Reduce el enrojecimiento, calma y suaviza la piel irritada o con picazón.",
+        "componente": {
+            "titulo": [
+                "Ácidos grasos omega 6:",
+                "Licochalcona A:",
+                "Mentoxipropanediol:",
+                "Decanodiol: "
+
+            ],
+            "descripcion": [
+                "Ayudan a regenerar la primera capa de la piel.",
+                "Es antiinflamatorio, calma y suaviza la piel.",
+                "Ayuda a aliviar la picazón de la piel.",
+                "Actúa contra las bacterias."
+
+            ]
+        },
+        "presentaciones": "40 ml",
+        "uso": "Bebés a partir de 3 meses.\n Aplicar en la zona afectada dos veces al día o cuantas veces sea necesario."
+    },
+
+    "prod-8": {
+        "nombre": "DA Control Loción Corporal",
+        "subnombre": "",
+        "url": "prod-8",
+        "tipo": "",
+        "categorias": [
+            "Piel Seca y sus complicaciones EUCERIN® DA Control"
+        ],
+        "recomendaciones": "Piel seca y sus complicaciones.\n Cuidado fase sub-aguda.",
+        "beneficios": "Reduce los episiodios agudos, fortaleciendo la función barrera, hidratando, calmando y suavizando la piel.",
+        "componentes": {
+            "titulo": [
+                "Ácidos grasos omega 6:",
+                "Licochalcona A:"
+            ],
+            "descripcion": [
+                "(Aceite onagra y Aceite de semilla de uva) ayudan a regenerar la primera capa de la piel.",
+                "Es antiinflamatorio, calma y suaviza la piel."
+            ]
+        },
+        "presentaciones": "250 ml",
+        "uso": "Bebés a partir de los 5 meses.\n Aplicar en la zona afectada dos veces al día o cuantas veces sea necesario."
+    },
+
+    "prod-9": {
+        "nombre": "Ultra Sensitive Loción Facial Limpiadora",
+        "subnombre": "",
+        "url": "prod-9",
+        "tipo": "",
+        "categorias": [
+            "Piel Hipersensible EUCERIN® Ultra SENSITIVE"
+        ],
+        "recomendaciones": "Limpieza facial.\n Piel Ultra Sensitive.",
+        "beneficios": "Limpieza para pieles ultra sensibles o enrojecidas, que actúa sobre los canales receptores TRP reduciendo la irritación de la piel y proporcionando confort instantáneo.",
+        "componentes": {
+            "titulo": [
+                "Symsitive:",
+                "Arginina:",
+                "0%"
+            ],
+            "descripcion": [
+                "Brinda un confort instantáneo y duradero en la piel, reduciendo significativamente el ardor y la sensación de calor.",
+                "Reduce la irritación de la piel.",
+                "Parabenos, fragancias, alcohol, colorantes y libre de preservantes"
+
+            ]
+        },
+        "presentaciones": "100 ml",
+        "uso": "Adultos\n Uso diario."
+    },
+
+    "prod-10": {
+        "nombre": "Ultra Sensitive Crema Facial Fluida",
+        "subnombre": "",
+        "url": "prod-10",
+        "tipo": "",
+        "categorias": [
+            "Piel Hipersensible EUCERIN® Ultra SENSITIVE"
+        ],
+        "recomendaciones": "Hidratante facial.\n Piel Ultra Sensitive.",
+        "beneficios": "Actúa sobre los canales receptores TRP reduciendo la irritación de la piel y proporcionando confort instantáneo.",
+        "componentes": {
+            "titulo": [
+                "Symsitive:",
+                "Arginina:",
+                "0%"
+            ],
+            "descripcion": [
+                "Brinda un confort instantáneo y duradero en la piel, reduciendo significativamente el ardor y la sensación de calor.",
+                "Reduce la irritación de la piel.",
+                "Parabenos, fragancias, alcohol, colorantes y libre de preservantes."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Adultos\n Uso diario."
+    },
+
+    "prod-11": {
+        "nombre": "Anti Enrojecimiento Crema Facial Día FPS 25",
+        "subnombre": "",
+        "url": "prod-11",
+        "tipo": "",
+        "categorias": [
+            "Piel Hipersensible EUCERIN® Ultra SENSITIVE"
+        ],
+        "recomendaciones": "Hidratante facial.\n Piel enrojecida y/o Ultra Sensitive.",
+        "beneficios": "Actúa sobre los canales receptores TRP reduciendo la irritación de la piel enrojecida, unificando el tono de la piel y proporcionando confort instantáneo.",
+        "componentes": {
+            "titulo": [
+                "Symsitive:",
+                "Licochalcona A: ",
+                "Pigmentos verdes:",
+                "0%",
+                "FPS 25:"
+            ],
+            "descripcion": [
+                "Brinda un confort instantáneo y duradero en la piel, reduciendo significativamente el ardor y la sensación de calor.",
+                "Reduce la irritación de la piel.",
+                "Unifican el tono de la piel, permitiendo enmascarar el tono rojo de la piel.",
+                "Parabenos, fragancias, alcohol, colorantes y libre de preservantes.",
+                "Protección UVA."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Adultos\n Uso diario."
+    },
+
+    "prod-12": {
+        "nombre": "Q10 Active Crema Anti-Arrugas Día",
+        "subnombre": "",
+        "url": "prod-12",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
+        ],
+        "recomendaciones": "25 a 35 años.\n Piel sensible o seca.",
+        "beneficios": "Reducción de las arrugas tras 5 semanas de uso continuo aportando firmeza, suavidad e hidratación a la piel. No comedogénico, sin perfumes, ni parabenos.",
+        "componentes": {
+            "titulo": [
+                "Coenzima Q10",
+                "Vitamica C, E y H (biotína):"
+            ],
+            "descripcion": [
+                "con acción renergizante y antioxidante.",
+                "que nutren la piel y reducen la inflamación."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (mañana)."
+    },
+
+    "prod-13": {
+        "nombre": "Q10 Active Crema Anti-Arrugas Noche",
+        "subnombre": "",
+        "url": "prod-13",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
+        ],
+        "recomendaciones": "25 a 35 años.\n Piel sensible o seca.",
+        "beneficios": "Crema facial de noche, con fórmula nutritiva, que mejora la funcion de renovación celular mientras duerme. No comedogénico, sin perfumes, ni parabenos.",
+        "componentes": {
+            "titulo": [
+                "Coenzima Q10",
+                "Proretinol/Vitamina A"
+            ],
+            "descripcion": [
+                "como energizante y atioxidante.",
+                "A que estimulan la producción de colágeno, aceleran y mejoran la función de renovación celular mientras duerme."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (noche)."
+    },
+
+    "prod-14": {
+        "nombre": "Q10 Active Fluido Antiarrugas FPS 15",
+        "subnombre": "",
+        "url": "prod-14",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
+        ],
+        "recomendaciones": "25 a 35 años. \n Piel normal o mixta.",
+        "beneficios": "Formulación de textura ligera, que reenergiza las células, las protege del daño de radicales libres causantes de líneas y arrugas. FPS 15 como protector del envejecimiento inducido por rayos UV.",
+        "componentes": {
+            "titulo": [
+                "Coenzima Q10",
+                "FPS 15"
+            ],
+            "descripcion": [
+                "como energizante y antioxidante, que mejora la renovación celular y reduce a profundidad las arrugas.",
+                "como protector de los rayos UV."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (mañana)."
+    },
+
+    "prod-15": {
+        "nombre": "Q10 Active Crema Antiarrugas Contorno de Ojos FPS 15",
+        "subnombre": "",
+        "url": "prod-15",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
+        ],
+        "recomendaciones": "25 a 35 años.\n Contorno de los ojos.",
+        "beneficios": "Fórmula hipoalergénica, oftalmológicamente testeada, que disminuye a profundidad las arrugas en la zona del contorno de los ojos.",
+        "componentes": {
+            "titulo": [
+                "Emulsión aceite en agua (o/w)",
+                "Coenzima Q10",
+                "FPS 15"
+            ],
+            "descripcion": [
+                "como hidratante a profundidad.",
+                "con acción renergizante y antioxidante.",
+                "como protector de os rayos UV."
+            ]
+        },
+        "presentaciones": "15 ml",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-16": {
+        "nombre": "Hyaluron-Filler Crema Facial Día",
+        "subnombre": "",
+        "url": "prod-16",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
+        ],
+        "recomendaciones": "35 a 45 años.\n Piel normal a seca.",
+        "beneficios": "Rellena las arrugas desde adentro hacia afuera, estimulando la renovación propia de la piel.",
+        "componentes": {
+            "titulo": [
+                "Saponina de soya",
+                "Ácido hialurónico de cadena larga y corta"
+            ],
+            "descripcion": [
+                "que estimula la producción de ácido hialurónico en la piel.",
+                "que rellena arrugas de adentro hacia afuera."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (mañana)."
+    },
+
+    "prod-17": {
+        "nombre": "Hyaluron-Filler Crema Facial Noche",
+        "subnombre": "",
+        "url": "prod-17",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
+        ],
+        "recomendaciones": "35 a 45 años.\n Piel normal a seca.",
+        "beneficios": "Rellena las arrugas desde adentro hacia afuera, estimulando la renovación propia de la piel, fortaleciendo la barrera cutánea.",
+        "componentes": {
+            "titulo": [
+                "Dexpantenol",
+                "Saponina de soya",
+                "Ácido hialurónico de cadena larga y corta"
+            ],
+            "descripcion": [
+                "concentrado como regenerador de la barrera cutánea. ",
+                "que estimula la producción de ácido hialurónico en la piel.",
+                "que rellena arrugas de adentro hacia afuera."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (noche)."
+    },
+
+    "prod-18": {
+        "nombre": "Hyaluron-Filler Crema de Día para Piel Normal o Mixta",
+        "subnombre": "",
+        "url": "prod-18",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
+        ],
+        "recomendaciones": "35 a 45 años.\n Piel normal a mixta.",
+        "beneficios": "Fórmula ligera ideal para piel mixta, que rellena las arrugas desde adentro hacia afuera, estimulando la renovación propia de la piel. FPS 15.",
+        "componentes": {
+            "titulo": [
+                "Saponina de soya",
+                "Ácido hialurónico de cadena larga y corta",
+                "FPS 15 "
+            ],
+            "descripcion": [
+                "que estimula la producción de ácido hialurónico en la piel.",
+                "que rellena arrugas de adentro hacia afuera.",
+                "como protector de los rayos UV."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (mañana)."
+    },
+
+    "prod-19": {
+        "nombre": "Hyaluron-Filler Crema Contorno de Ojos",
+        "subnombre": "",
+        "url": "prod-19",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
+        ],
+        "recomendaciones": "35 a 45 años.\n Contorno de los ojos.",
+        "beneficios": "Rellena las arrugas del contorno del ojo desde adentro hacia afuera, estimulando la renovación propia de la piel.",
+        "componentes": {
+            "titulo": [
+                "Saponina de soya",
+                "Ácido hialurónico de cadena larga y corta",
+                "FPS 15"
+            ],
+            "descripcion": [
+                "que estimula la producción de ácido hialurónico en la piel. ",
+                "que rellena arrugas de adentro hacia afuera. ",
+                "como protector de los rayos UV."
+            ]
+        },
+        "presentaciones": "15 ml",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-20": {
+        "nombre": "Hyaluron-Filler Crema Contorno de Ojos FPS 15",
+        "subnombre": "",
+        "url": "prod-20",
+        "tipo": "",
+        "categorias": [
+            "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
+        ],
+        "recomendaciones": "35 a 45 años.\n Contorno de los ojos.",
+        "beneficios": "Rellena las arrugas del contorno del ojo desde adentro hacia afuera, estimulando la renovación propia de la piel.",
+        "componentes": {
+            "titulo": [
+                "Saponina de soya",
+                "Ácido hialurónico de cadena larga y corta",
+                "FPS 15"
+            ],
+            "descripcion": [
+                "que estimula la producción de ácido hialurónico en la piel.",
+                "que rellena arrugas de adentro hacia afuera.",
+                "como protector de los rayos UV."
+            ]
+        },
+        "presentaciones": "15 ml",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-21": {
+        "nombre": "Hyaluron-Filler Serum/Concentrate",
+        "subnombre": "",
+        "url": "prod-21",
+        "tipo": "",
+        "categorias": [
+            "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity"
+        ],
+        "recomendaciones": "35 a 45 años.\n Aplicación directa sobre las arrugas.",
+        "beneficios": "Serum concentrado que actúa directamente sobre las arrugas reduciendo activamente la profundidad.",
+        "componentes": {
+            "titulo": [
+                "Saponina de soya",
+                "Ácido hialurónico de cadena corta"
+            ],
+            "descripcion": [
+                "que estimula la producción de ácido hialurónico en la piel. ",
+                "que rellena arrugas de adentro hacia afuera."
+            ]
+        },
+        "presentaciones": "6 tubos de 5 ml / 5 g c/u",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-22": {
+        "nombre": "Hyaluron-Filler + Elasticity Crema Facial Día FPS 15",
+        "subnombre": "",
+        "url": "prod-22",
+        "tipo": "",
+        "categorias": [
+            "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity"
+        ],
+        "recomendaciones": "+ 45 años.\n Piel normal a seca.",
+        "beneficios": "Nutre y fortalece la estructura de la piel de manera que mejora su elasticidad y rellena arrugas profundas, haciendo que la piel se sienta firme y suave, con un aspecto fresco y radiante.",
+        "componentes": {
+            "titulo": [
+                "Arctiina",
+                "Silimarina",
+                "Ácido hialurónico de alto y bajo peso molecular",
+                "Aceite de argán",
+                "Hyaluron Elasticity filler."
+            ],
+            "descripcion": [
+                "de actividad probada para acelerar la renovación del colágeno en las células de la piel.",
+                "un poderoso antioxidante que protege el colágeno y la elastina frente a la degradación; mejora la circulación de la piel a nivel celular.",
+                "para rellenar las arrugas de manera visible.",
+                "rico en lípidos para el cuidado de la piel, apoya la regeneración y suaviza la superficie de la piel.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (noche)."
+    },
+
+    "prod-23": {
+        "nombre": "Hyaluron-Filler + Elasticity Aceite facial",
+        "subnombre": "",
+        "url": "prod-23",
+        "tipo": "",
+        "categorias": [
+            "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity"
+        ],
+        "recomendaciones": "+ 45 años.\n Piel normal a seca.",
+        "beneficios": "Mejora la elasticidad, hace que la piel se sienta más firme, apoya su capacidad natural de recuperación y suaviza su superficie. Este aceite reconfortante deja la piel con un acabado satinado.",
+        "componentes": {
+            "titulo": [
+                "Cardo mariano",
+                "Vitamina E",
+                "Aceite de argán",
+                "Hyaluron Elasticity filler."
+            ],
+            "descripcion": [
+                "con acción antioxidante.",
+                "con acción antioxidante que protege frente a los radicales libres.",
+                "rico en lípidos para el cuidado de la piel; apoya la regeneración y suaviza la superficie de la piel.",
+                ""
+            ]
+        },
+        "presentaciones": "30 ml",
+        "uso": "Diario (mañana y noche)."
+    },
+
+    "prod-24": {
+        "nombre": "Oil Control Toque Seco",
+        "subnombre": "",
+        "url": "prod-24",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Protección  Solar - Rostro"
+        ],
+        "recomendaciones": "Piel grasa",
+        "beneficios": "Proteccion UVA UVB, 50+, con acción antibrillo que controla, regula y matifica. Con fórmula ultra ligera y de rápida absorción.",
+        "componentes": {
+            "titulo": [
+                "Licochalcona A:",
+                "Ácido glicirretínico:",
+                "L-Carnitina:",
+                "lípidoabsorbentes:",
+                "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+            ],
+            "descripcion": [
+                "Acción anti-oxidante que protege las células cutáneas. ",
+                "Protección y reparación del ADN.\n Células cutáneas dañadas.",
+                "Seborregulador que elimina la grasa de la piel que produce el acné; Al mismo tiempo protege del sol. Pigmentos",
+                "Acabado mate, efecto anti-brillo y textura no pegajosa.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día)."
+    },
+
+    "prod-25": {
+        "nombre": "Sun Fluid Antiedad",
+        "subnombre": "",
+        "url": "prod-25",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Protección  Solar - Rostro"
+        ],
+        "recomendaciones": "Piel normal, seca y/o madura ",
+        "beneficios": "Proteccion UVA UVB, 50+, tecnología Hyaluron con cadena corta y larga de ácido hialurónico, que rellena tanto las arrugas profundas como las superficiales, con acción matificante.",
+        "componentes": {
+            "titulo": [
+                "Licochalcona A:",
+                "Ácido glicirretínico:",
+                "Ácido hyalurónico:",
+                "Almidón de tapioca:",
+                "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+            ],
+            "descripcion": [
+                "Acción anti-oxidante que protege a las celulas cutáneas. ",
+                "Protección y reparación del ADN.\n Células cutáneas dañadas. ",
+                "Reduce arrugas profundas, líneas finas e hidrata. ",
+                "Textura suave y ligera sin sensación grasosa.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día). "
+    },
+
+    "prod-26": {
+        "nombre": "Sun CC Cream Photoaging",
+        "subnombre": "",
+        "url": "prod-26",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Protección  Solar - Rostro"
+        ],
+        "recomendaciones": "Piel normal, seca y/o pigmentada",
+        "beneficios": "Proteccion UVA UVB, 50+, con micropigmentos de color, ideal como base de maquillaje.",
+        "componentes": {
+            "titulo": [
+                "Licochalcona",
+                "Ácido glicirretínico:",
+                "Tecnologia CC Cream:",
+                "Tinosorb S:",
+                "Ácido hyalurónico:"
+            ],
+            "descripcion": [
+                "A: Acción anti-oxidante que protege las células cutáneas.",
+                "Protección y reparación del ADN. Células cutáneas dañadas.",
+                "Micropigmentos unificadores de color con 3 pigmentos lípidoabsorbentes que brindan un efecto matificante. ",
+                "Filtros que protegen frente a las radiaciones UVA/UVB (quemaduras y envejecimiento).",
+                "Reduce arrugas profundas, líneas finas e hidrata.\n Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día)."
+    },
+
+    "prod-27": {
+        "nombre": "Bloqueador Solar Sensación Extra ligera",
+        "subnombre": "",
+        "url": "prod-27",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Protección  Solar  Corporal",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Corporal, todo tipo de piel.",
+        "beneficios": "Protege la piel de quemaduras solares con protección biológica, rápida absorción y sin dejar residuos en la piel. Muy resistente al agua.",
+        "componentes": {
+            "titulo": [
+                "Licochalcona A:",
+                "Ácido glicirretínico:",
+                "Tinosorb S:",
+                "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+            ],
+            "descripcion": [
+                "Acción anti-oxidante que protege  las células cutáneas.",
+                "Protección y reparación del ADN.",
+                "Filtros que protegen frente a las radiaciones UVA/UVB (quemaduras y envejecimiento).",
+                ""
+            ]
+        },
+        "presentaciones": "150 ml",
+        "uso": "Adultos \n Aplicar 20 minutos antes de la exposición (3 veces al día)."
+    },
+
+    "prod-28": {
+        "nombre": "Sun Spray Corporal Toque Seco",
+        "subnombre": "",
+        "url": "prod-28",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Protección  Solar  Corporal"
+        ],
+        "recomendaciones": "Rostro y cuerpo.\n Piel delicada y sensible.",
+        "beneficios": "Fórmula transparente en spray sin sensación grasosa que protege la piel de quemaduras solares, De rápida absorción, resistente al agua, con tecnología antimanchas.",
+        "componentes": {
+            "titulo": [
+                "Licochalcona A:",
+                "Filtros UVA-UVV:",
+                "Tecnología antimanchas:",
+                "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+            ],
+            "descripcion": [
+                "Antiinflamatorio y antioxidante.",
+                "Que protegen de las queamduras y el envejecimiento.",
+                "Que evita que la ropa se manche con la aplicación.",
+                ""
+            ]
+        },
+        "presentaciones": "200 ml",
+        "uso": "Adultos \n Aplicar 20 minutos antes de la exposición (3 veces al día)."
+    },
+
+    "prod-29": {
+        "nombre": "Kids Sun Lotion",
+        "subnombre": "",
+        "url": "prod-29",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Protección  Solar  Corporal"
+        ],
+        "recomendaciones": "Rostro y cuerpo.\n Piel delicada y sensible.",
+        "beneficios": "Protege la piel de quemaduras solares.\n Muy resistente al agua.",
+        "componentes": {
+            "titulo": [
+                "Licochalcona A:",
+                "Tinosorb S:",
+                "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+            ],
+            "descripcion": [
+                "Acción anti-oxidante que protege las células cutáneas. ",
+                "Filtros que protegen frente a las radiaciones UVA/UVB (quemaduras y envejecimiento).",
+                ""
+            ]
+        },
+        "presentaciones": "150 ml",
+        "uso": "Niños a partir de 1 año.\n Aplicar 20 minutos antes de la exposición, por 4 horas."
+    },
+
+    "prod-30": {
+        "nombre": "Ph5 Loción",
+        "subnombre": "",
+        "url": "prod-30",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Cuidado"
+        ],
+        "recomendaciones": "Piel sensible.\n Cuerpo",
+        "beneficios": "Hidratación y acción antioxidante, que mejora la formación de la barrera protectora de la piel en solo dos semanas.",
+        "componentes": {
+            "titulo": [
+                "Ph5 Buffer de Citrato:",
+                "5% Dexpantenol:",
+                "Glicerina (libre de agua):",
+                "Vitamina E:"
+            ],
+            "descripcion": [
+                "Estabiliza el pH de la piel, fortaleciendo la función protectora.",
+                "Fortalece la barrera protectora de la piel.",
+                "Humecta durante 24 h, suaviza y protege la capa exterior de la piel.",
+                "Acción anti-oxidante."
+            ]
+        },
+        "presentaciones": "125, 250 y 400 ml",
+        "uso": "Niños y adulto\n Diario cuantas veces sea necesario."
+    },
+
+    "prod-31": {
+        "nombre": "Ph5 Crema Intensiva",
+        "subnombre": "",
+        "url": "prod-31",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Cuidado",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel sensible y seca.\n Cuerpo",
+        "beneficios": "Hidratación prolongada para la piel o zonas sensibles más resecas. Ayuda a regenerar la piel día a día.",
+        "componentes": {
+            "titulo": [
+                "Ph5 Buffer de Citrato:",
+                "5% Dexpantenol:",
+                "Glicerina (libre de agua):",
+                "Vitamina E:",
+                "Emulsión o/w:"
+            ],
+            "descripcion": [
+                "Estabiliza el pH de la piel, fortaleciendo la función protectora.",
+                "Fortalece la barrera protectora de la piel.",
+                "Humecta durante 24 h, suaviza y protege la capa exterior de la piel.",
+                "Acción anti-oxidante.",
+                "Proporciona una textura ligera."
+            ]
+        },
+        "presentaciones": "450 ml",
+        "uso": "Bebés, niños y adultos\n Diario cuantas veces sea necesario."
+    },
+
+    "prod-32": {
+        "nombre": "Ph5 Protector Labial",
+        "subnombre": "",
+        "url": "prod-32",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Cuidado"
+        ],
+        "recomendaciones": "Piel sensible. \n Labios",
+        "beneficios": "De uso diario para la protección e hidratación de los labios sensibles, secos y agrietados.",
+        "componentes": {
+            "titulo": [
+                "Dexpantenol:",
+                "Vitamina E:",
+                "FPS 15:"
+            ],
+            "descripcion": [
+                "Fortalece la barrera protectora de la piel.",
+                "Acción anti-oxidante.",
+                "Protección UVA."
+            ]
+        },
+        "presentaciones": "4,8 gr",
+        "uso": "Niños y adultos \n Diario cuantas veces sea necesario."
+    },
+
+    "prod-33": {
+        "nombre": "pH5 Syndet Gel",
+        "subnombre": "NIÑOS +6 AÑOS",
+        "url": "prod-33",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Limpieza",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel sensible.\n Rostro y cuerpo, sustituto del jabón.",
+        "beneficios": "Activa las defensas naturales de la piel, limpia, protege e hidrata las pieles sensibles.",
+        "componentes": {
+            "titulo": [
+                "Ph5 Buffer de Citrato:",
+                "Aceite de ricino:",
+                "Surfactantes extra suaves:"
+            ],
+            "descripcion": [
+                "Estabiliza el pH de la piel fortaleciendo la función protectora.",
+                "Hidratante.",
+                "Limpieza suave SIN detergente.\n No produce tirantez, ni irritación. "
+            ]
+        },
+        "presentaciones": "250 ml",
+        "uso": "Uso diario en la ducha."
+    },
+
+    "prod-34": {
+        "nombre": "pH5 Aceite de Ducha",
+        "subnombre": "",
+        "url": "prod-34",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Limpieza",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel sensible, seca y sus complicaciones.\n Rostro y cuerpo, sustituto del jabón.",
+        "beneficios": "Activa las defensas naturales de la piel, limpia, protege e hidrata las pieles sensibles.",
+        "componentes": {
+            "titulo": [
+                "Ph5 Buffer de Citrato:",
+                "55% Aceites Naturales:",
+                "Pantenol:",
+                "Bisabolol:"
+            ],
+            "descripcion": [
+                "Estabiliza el pH de la piel, fortaleciendo la función protectora. ",
+                "Repone lÍpidos perdidos.",
+                "Humectante.",
+                "Calmante, antiinflamatorio y suavizante."
+            ]
+        },
+        "presentaciones": "200 ml",
+        "uso": "Uso diario en la ducha."
+    },
+
+    "prod-35": {
+        "nombre": "Higiene Íntima",
+        "subnombre": "",
+        "url": "prod-35",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Limpieza"
+        ],
+        "recomendaciones": "Piel sensible.\n Limpieza diaria para la zona genital.",
+        "beneficios": "Activa las defensas naturales de la piel, limpia, protege e hidrata las pieles sensibles.",
+        "componentes": {
+            "titulo": [
+                "Bisabolol:",
+                "Aceite de ricino:",
+                "Ácido láctico:"
+            ],
+            "descripcion": [
+                "Calmante, antiinflamatorio y suavizante.",
+                "Hidratante.",
+                "Estimula la producción de colágeno y elastina, generando una piel más firme, suave y fuerte."
+            ]
+        },
+        "presentaciones": "250 ml",
+        "uso": "Uso diario en la ducha."
+    },
+
+    "prod-36": {
+        "nombre": "pH5 Baby Baño y Shampoo",
+        "subnombre": "BEBES Y NIÑOS\n -6 AÑOS",
+        "url": "prod-36",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Limpieza"
+        ],
+        "recomendaciones": "Piel sensible.\n Cuerpo y cabello de bebés y niños.",
+        "beneficios": "Activa las defensas naturales de la piel, limpia, protege e hidrata las pieles sensibles.",
+        "componentes": {
+            "titulo": [
+                "Bisabolol:",
+                "Manteca de Karite:",
+                "Pantenol:"
+            ],
+            "descripcion": [
+                "Calmante, antiinflamatorio y suavizante.",
+                "Regeneración celular, generando una piel más sana.",
+                "Humectante."
+            ]
+        },
+        "presentaciones": "240 ml",
+        "uso": "Uso diario en la ducha.\n Bebés y niños."
+    },
+
+    "prod-37": {
+        "nombre": "Urea Repair Plus Loción corporal",
+        "subnombre": "",
+        "url": "prod-37",
+        "tipo": "",
+        "categorias": [
+            "EUCERIN® Cuidado Corporal - Piel Extra Seca",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel extremandamente seca y escamosa.",
+        "beneficios": "Alivio inmediato de pieles extremandamente secas y escamosas. 48 horas libre de síntomas.",
+        "componentes": {
+            "titulo": [
+                "Urea 10%:",
+                "Factores hidratantes naturales de la piel (FHN):",
+                "Ceramidas 3:",
+                "Glucoglicerol:"
+            ],
+            "descripcion": [
+                "Hidrata la piel formando una barrera protectora, evitando que haya pérdida continua de agua en la piel.",
+                "Regula la hidratación de la piel, facilitando el proceso de descamación y renovación celular.",
+                "Repara la función de  protección de la piel, brindando buena hidratación.",
+                "Estimula las aquaporinas en la piel, de esta forma, hay mayor circulación de agua en ella, brindando una hidratación óptima hasta en las capas más profundas."
+            ]
+        },
+        "presentaciones": "250 ml",
+        "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
+    },
+
+    "prod-38": {
+        "nombre": "Urea Repair Plus\n Urea Repair Plus",
+        "subnombre": "",
+        "url": "prod-38",
+        "tipo": "",
+        "categorias": ["EUCERIN® Cuidado Corporal - Piel Extra Seca"],
+        "recomendaciones": "Cuidado de los pies extremadamente secos y escamosos.",
+        "beneficios": "Alivio inmediato de la piel de los pies extremandamente secos y escamosos. 48 horas libre de síntomas",
+        "componentes": {
+            "titulo": [
+                "Urea 10%:",
+                "Ácido láctico:",
+                "Ceramidas:",
+                "Glucoglicerol:"
+            ],
+            "descripcion": [
+                "Hidrata la piel formando una barrera protectora, evitando que haya pérdida continua de agua en la piel.",
+                "Exfolia de forma suave las escamas que se presentan en esta zona.",
+                "Repara la función de protección de la piel, brindando buena hidratación.",
+                "Estimula las aquaporinas en la piel, de esta forma, hay mayor circulación de agua en ella, brindando una hidratación óptima hasta en las capas más profundas."
+            ]
+        },
+        "presentaciones": "100 ml",
+        "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
+    },
+
+    "prod-39": {
+        "nombre": "Aquaphor",
+        "subnombre": "",
+        "url": "prod-39",
+        "tipo": "",
+        "categorias": [
+            "EUCERIN® Cuidado Corporal - Piel Extra Seca",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel agrietada, ampollada, descamada, seca o irritada tras un tratamiento dermatológico superficial como laser, peeling químico o dermoabrasión.",
+        "beneficios": "Acelera la regeneración de la piel, potenciando la cicatrización; acondiciona y calma, ayudando a la cicatrización de la piel extremadamente dañada o irritada.",
+        "componentes": {
+            "titulo": [
+                "Pantenol:",
+                "Bisabolol:",
+                "Glicerina (libre de agua):",
+                "0%"
+            ],
+            "descripcion": [
+                "Humectante.",
+                "Calmante, antiinflamatorio y suavizante.",
+                "Humecta durante 24 h, suaviza y protege la capa exterior de la piel.",
+                "Preservantes, parabenos, parafinas, fragancias, alcohol, emulsificantes, colorantes."
+            ]
+        },
+        "presentaciones": "55 ml",
+        "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
+    },
+
+    "prod-40": {
+        "nombre": "Anti-Pigment Dual Serum Facial \n Dia/Noche",
+        "subnombre": "",
+        "url": "prod-40",
+        "tipo": "",
+        "categorias": [
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Para todo tipo de piel pigmentada.",
+        "beneficios": "Ayuda a reducir efectivamente las manchas de pigmentación y a prevenir su reaparición con el uso regular para una piel uniforme y radiante.",
+        "componentes": {
+            "titulo": [
+                "Compartimiento Plateado:",
+                "Ácido Hialurónico de cadena larga y corta:",
+                "Reduce líneas finas",
+                "Compartimiento Rosado:",
+                "Thiamidol:"
+            ],
+            "descripcion": [
+                "",
+                "Mejora el relleno de las arrugas.",
+                "y retrasa la formación de nuevas líneas y arrugas.",
+                "",
+                "Despigmentante."
+            ]
+        },
+        "presentaciones": "30 ml",
+        "uso": "Diario (Mañana y noche)."
+    },
+
+    "prod-41": {
+        "nombre": "Anti-Pigment Crema Facial Día",
+        "subnombre": "",
+        "url": "prod-41",
+        "tipo": "",
+        "categorias": [
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Para todo tipo de piel pigmentada.",
+        "beneficios": "Ayuda a reducir efectivamente las manchas de pigmentación y a prevenir su reaparición con el uso regular para una piel uniforme y radiante.",
+        "componentes": {
+            "titulo": [
+                "Thiamidol:",
+                "Licochalcona A:",
+                "Tinosorb S:",
+                "Almidón de Tapioca:",
+                "Crema facial ligera de aplicación diurna."
+            ],
+            "descripcion": [
+                "Despigmentante.",
+                "Antioxidante y anti-inflamatorio.",
+                "Alta Protección solar (UVA/UVB) FPS 30.",
+                "Rápida absorción y efecto mate.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (Mañana)."
+    },
+
+    "prod-42": {
+        "nombre": "Anti-Pigment Crema Facial\n Noche",
+        "subnombre": "",
+        "url": "prod-42",
+        "tipo": "",
+        "categorias": [
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Para todo tipo de piel pigmentada.",
+        "beneficios": "Ayuda a reducir efectivamente las manchas de pigmentación y a prevenir su reaparición con el uso regular para una piel uniforme y radiante.",
+        "componentes": {
+            "titulo": [
+                "Thiamidol:",
+                "Licochalcona A:",
+                "Manteca de Karité:",
+                "Dexpantenol:",
+                "Crema facial ligera de aplicación nocturna."
+            ],
+            "descripcion": [
+                "Despigmentante.",
+                "Antioxidante y anti-inflamatorio.",
+                "Humecta y restituye los lípidos de la piel.",
+                "Apoya los mecanismos de regeneración celular.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (Noche)."
+    },
+
+    "prod-43": {
+        "nombre": "Sun Pigment Control",
+        "subnombre": "",
+        "url": "prod-43",
+        "tipo": "Muy Alto FPS 50+",
+        "categorias": [
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Para todo tipo de piel pigmentada.",
+        "beneficios": "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azuly visible de alta energia (HEVIS). previene, y reduce la incidencia detrastornos pigmentarios. Reduce eficazmente las manchas oscuras yevita su reaparición.",
+        "componentes": {
+            "titulo": [
+                "Thiamidol:",
+                "Licochalcona A:",
+                "Ácido Glicirretinico:",
+                "Dermatológicamente demostrado, incluso en pieles sensibles."
+            ],
+            "descripcion": [
+                "Despigmentante.",
+                "Acción Antioxidante que protege las células cutáneas.",
+                "Protege y repara el ADN de las células cutáneas.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día)."
+    },
+
+    "prod-44": {
+        "nombre": "pH5 Syndet Barra",
+        "subnombre": "",
+        "url": "prod-44",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Limpieza",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel sensible.\n Rostro y cuerpo, sustituto del jabón.",
+        "beneficios": "Activa las defensas naturales de la piel, limpia, protege e hidrata las pieles sensibles.",
+        "componentes": {
+            "titulo": [
+                "Ph5 Buffer de Citrato:",
+                "Aceite de ricino:",
+                "Surfactantes extra suaves:"
+            ],
+            "descripcion": [
+                "Estabiliza el pH de la piel fortaleciendo la función protectora.",
+                "Hidratante.",
+                "Limpieza suave SIN detergente.\n No produce tirantez, ni irritación. "
+            ]
+        },
+        "presentaciones": "100 gr",
+        "uso": "Uso diario en la ducha."
+    },
+
+    "prod-45": {
+        "nombre": "pH5 Higiene Íntima",
+        "subnombre": "",
+        "url": "prod-45",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Limpieza",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel sensible.\n Limpieza diaria para la zona genital.",
+        "beneficios": "Activa las defensas naturales de la piel, limpia, protege e hidrata las pieles sensibles",
+        "componentes": {
+            "titulo": [
+                "Bisabolol:",
+                "Aceite de ricino:",
+                "Ácido láctico:"
+            ],
+            "descripcion": [
+                "Calmante, antiinflamatorio y suavizante.",
+                "Hidratante.",
+                "Estimula la producción de colágeno y elastina, generando una piel más firme, suave y fuerte."
+            ]
+        },
+        "presentaciones": "250 ml",
+        "uso": "Uso diario en la ducha."
+    },
+
+    "prod-46": {
+        "nombre": "pH5 Protector Labial",
+        "subnombre": "",
+        "url": "prod-46",
+        "tipo": "",
+        "categorias": [
+            "Piel Sensible EUCERIN® pH5 Cuidado",
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Piel sensible.\n Labios.",
+        "beneficios": "De uso diario para la protección e hidratación de los labios sensibles, secos y agrietados.",
+        "componentes": {
+            "titulo": [
+                "Dexpantenol:",
+                "Vitamina E:",
+                "FPS 15:"
+            ],
+            "descripcion": [
+                "Fortalece la barrera protectora de la piel.",
+                "Acción anti-oxidante. ",
+                "Protección UVA."
+            ]
+        },
+        "presentaciones": "4,8g",
+        "uso": "Niños y adultos.\n Diario cuantas veces sea necesario."
+    },
+
+    "prod-47": {
+        "nombre": "Crema Reparadora para Pies",
+        "subnombre": "",
+        "url": "prod-47",
+        "tipo": "",
+        "categorias": [
+            "EUCERIN® Anti - Pigmento"
+        ],
+        "recomendaciones": "Cuidado de los pies extremadamente secos y escamosos.",
+        "beneficios": "Alivio inmediato de la piel de los pies extremandamente secos y escamosos. 48 horas libre de síntomas.",
+        "componentes": {
+            "titulo": [
+                "Urea 10%:",
+                "Ácido láctico:",
+                "Ceramidas:",
+                "Glucoglicerol"
+            ],
+            "descripcion": [
+                "Hidrata la piel formando una barrera protectora, evitando que haya pérdida continua de agua en la piel.",
+                "Exfolia de forma suave las escamas que se presentan en esta zona. ",
+                "Repara la función de protección de la piel, brindando buena hidratación.",
+                "Estimula las aquaporinas en la piel, de esta forma, hay mayor circulación de agua en ella, brindando una hidratación óptima hasta en las capas más profundas."
+            ]
+        },
+        "presentaciones": "200 ml",
+        "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
+    },
+
+    "prod-48": {
+        "nombre": "Eucerin Hyaluron-Filler Noche Serum Efecto Peeling",
+        "subnombre": "",
+        "url": "prod-48",
+        "tipo": "",
+        "categorias": [
+            ""
+        ],
+        "recomendaciones": "35 a 45 años\n Todo tipo de piel",
+        "beneficios": "Un peeling y serum con acción dual por la noche, acelera la renovación celular y rellena hasta las arrugas más profundas dejando la piel suave y radiante.",
+        "componentes": {
+            "titulo": [
+                "Compartimiento Blanco:",
+                "Complejo AHA:",
+                "Glicina Saponina:",
+                "Compartimiento Plateado:"
+            ],
+            "descripcion": [
+                "",
+                "Ácido Glicólico, Ácido Láctico y Gluconolactona exfolian con suavidad durante la noche acelerando la renovación celular.",
+                "Apoya la producción de ácido hialurónico en las células de la capa dérmica.",
+                "Contiene Ácido Hialurónico de cadena larga y corta. Rellena las arrugas de adentro hacia afuera."
+            ]
+        },
+        "presentaciones": "30 ml",
+        "uso": "Aplica en la noche sobre el rostro limpio, con movimientos suaves circulares ascendentes. Diario (Noche)"
+    },
+
+    "prod-49": {
+        "nombre": "Hyaluron-Filler + Elasticity Crema Facial de Noche",
+        "subnombre": "",
+        "url": "prod-49",
+        "tipo": "",
+        "categorias": [
+            "Antiedad +45 años EUCERIN® Hyaluron Filler Elasticity"
+        ],
+        "recomendaciones": "+ 45 años.\n Piel normal a seca.",
+        "beneficios": "Nutre y fortalece la estructura de la piel de manera que mejora su elasticidad y rellena arrugas profundas haciendo que la piel se sienta firme y suave, con un aspecto fresco y radiante.",
+        "componentes": {
+            "titulo": [
+                "Arctiina",
+                "Silimarina",
+                "Ácido hialurónico de alto y bajo peso molecular",
+                "Aceite de argán",
+                "Hyaluron Elasticity filler"
+            ],
+            "descripcion": [
+                "de actividad probada para acelerar la renovación del colágeno en las células de la piel.",
+                "un poderoso antioxidante que protege el colágeno y la elastina frente a la degradación; mejora la circulación de la piel a nivel celular.",
+                "para rellenar las arrugas de manera visible.",
+                "rico en lípidos para el cuidado de la piel, apoya la regeneración y suaviza la superficie de la piel.",
+                ""
+            ]
+        },
+        "presentaciones": "50 ml",
+        "uso": "Diario (noche)"
+    },
+
+    "prod-50": {
+        "nombre": "",
+        "subnombre": "",
+        "url": "prod-50",
+        "tipo": "",
+        "categorias": [
+            ""
+        ],
+        "recomendaciones": "",
+        "beneficios": "",
+        "componentes": {
+            "titulo": [
+                "",
+                "",
+                ""
+            ],
+            "descripcion": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "presentaciones": "",
+        "uso": ""
+    }
+}

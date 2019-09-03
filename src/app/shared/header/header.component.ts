@@ -7,15 +7,11 @@ import * as M from '../../../assets/js/materialize.min.js';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  options = {draggable: true, preventScrolling: true};
-  options1 = {};
   constructor() { }
 
   ngOnInit() {
-    const elems = document.querySelectorAll('.sidenav');
-    const instances = M.Sidenav.init(elems, this.options);
-    const elems1 = document.querySelectorAll('.collapsible');
-    const instances1 = M.Collapsible.init(elems1, this.options1);
+    const instances1 = M.Sidenav.init( document.querySelectorAll('.sidenav'), { draggable: true, preventScrolling: true } );
+    const instances2 = M.Collapsible.init( document.querySelectorAll('.collapsible'), {} );
   }
 
 }
