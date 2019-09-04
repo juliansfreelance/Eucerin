@@ -5103,7 +5103,7 @@ small {
 
 .card .card-content .card-title {
     display: block;
-    line-height: 32px;
+    line-height: 1.2;
     margin-bottom: 8px;
 }
 

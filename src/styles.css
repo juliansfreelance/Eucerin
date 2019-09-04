@@ -120,6 +120,11 @@ main {
     font-family: 'eucerinBold';
 }
 
+.tituloLinea {
+    color: #2a3742 !important;
+    font-family: 'eucerinBold';
+}
+
 
 /* masory */
 
@@ -180,4 +185,13 @@ main {
 
 .text-center {
     text-align: center;
+}
+
+.loader {
+    margin-top: 30px;
+}
+
+svg path,
+svg rect {
+    fill: #a81830;
 }

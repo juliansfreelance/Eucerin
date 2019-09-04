@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as M from '../../../assets/js/materialize.min.js';
+import { AntipigmentoService } from 'src/app/services/antipigmento.service';
 
 @Component({
   selector: 'app-antipigmento',
@@ -8,7 +9,7 @@ import * as M from '../../../assets/js/materialize.min.js';
 })
 export class AntipigmentoComponent implements OnInit {
 
-  constructor() { }
+  constructor( public antipigmentoService: AntipigmentoService ) { }
 
   ngOnInit() {
     const instance = M.Tabs.init( document.querySelectorAll('.tabs'), {} );

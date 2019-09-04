@@ -1,8 +1,10 @@
-{
-    "prod-1": {
+[{
+
+    },
+    {
+        "codigo": "prod-1",
         "nombre": "DermoPure OIL CONTROL Gel Limpiador",
         "subnombre": "",
-        "url": "prod-1",
         "tipo": "",
         "categorias": [
             "Piel Grasa EUCERIN® DermoPure"
@@ -26,11 +28,10 @@
         "presentaciones": "200 ml",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-2": {
+    {
+        "codigo": "prod-2",
         "nombre": "DermoPure OIL CONTROL Agua Micelar",
         "subnombre": "",
-        "url": "prod-2",
         "tipo": "",
         "categorias": [
             "Piel Grasa EUCERIN® DermoPure",
@@ -49,11 +50,10 @@
         "presentaciones": "200 ml",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-3": {
+    {
+        "codigo": "prod-3",
         "nombre": "DermoPure OIL CONTROL Exfoliante ",
         "subnombre": "",
-        "url": "prod-3",
         "tipo": "",
         "categorias": [
             "Piel Grasa EUCERIN® DermoPure"
@@ -73,11 +73,10 @@
         "presentaciones": "100 ml",
         "uso": "2 veces por semana."
     },
-
-    "prod-4": {
+    {
+        "codigo": "prod-4",
         "nombre": "DermoPure OIL CONTROL Tratamiento Intensivo Noche",
         "subnombre": "",
-        "url": "prod-4",
         "tipo": "",
         "categorias": [
             "Piel Grasa EUCERIN® DermoPure"
@@ -103,11 +102,10 @@
         "presentaciones": "40 ml",
         "uso": "Diario (Noche, después de la limpieza)"
     },
-
-    "prod-5": {
+    {
+        "codigo": "prod-5",
         "nombre": "DermoPure OIL CONTROL Hidratante Matificante",
         "subnombre": "",
-        "url": "prod-5",
         "tipo": "",
         "categorias": [
             "Piel Grasa EUCERIN® DermoPure"
@@ -133,11 +131,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (mañana)."
     },
-
-    "prod-6": {
+    {
+        "codigo": "prod-6",
         "nombre": "DermoPure OIL CONTROL Cover Stick corrector",
         "subnombre": "",
-        "url": "prod-6",
         "tipo": "",
         "categorias": [
             "Piel Grasa EUCERIN® DermoPure"
@@ -159,18 +156,17 @@
         "presentaciones": "2,5 g",
         "uso": "3 veces al día, sobre  lesiones."
     },
-
-    "prod-7": {
+    {
+        "codigo": "prod-7",
         "nombre": "DA Control Crema de Cuidado Intensivo",
         "subnombre": "",
-        "url": "prod-7",
         "tipo": "",
         "categorias": [
             "Piel Seca y sus complicaciones EUCERIN® DA Control"
         ],
         "recomendaciones": "Piel seca y sus complicaciones.\n Cuidado fase aguda.",
         "beneficios": "Reduce el enrojecimiento, calma y suaviza la piel irritada o con picazón.",
-        "componente": {
+        "componentes": {
             "titulo": [
                 "Ácidos grasos omega 6:",
                 "Licochalcona A:",
@@ -189,11 +185,10 @@
         "presentaciones": "40 ml",
         "uso": "Bebés a partir de 3 meses.\n Aplicar en la zona afectada dos veces al día o cuantas veces sea necesario."
     },
-
-    "prod-8": {
+    {
+        "codigo": "prod-8",
         "nombre": "DA Control Loción Corporal",
         "subnombre": "",
-        "url": "prod-8",
         "tipo": "",
         "categorias": [
             "Piel Seca y sus complicaciones EUCERIN® DA Control"
@@ -213,11 +208,10 @@
         "presentaciones": "250 ml",
         "uso": "Bebés a partir de los 5 meses.\n Aplicar en la zona afectada dos veces al día o cuantas veces sea necesario."
     },
-
-    "prod-9": {
+    {
+        "codigo": "prod-9",
         "nombre": "Ultra Sensitive Loción Facial Limpiadora",
         "subnombre": "",
-        "url": "prod-9",
         "tipo": "",
         "categorias": [
             "Piel Hipersensible EUCERIN® Ultra SENSITIVE"
@@ -240,11 +234,10 @@
         "presentaciones": "100 ml",
         "uso": "Adultos\n Uso diario."
     },
-
-    "prod-10": {
+    {
+        "codigo": "prod-10",
         "nombre": "Ultra Sensitive Crema Facial Fluida",
         "subnombre": "",
-        "url": "prod-10",
         "tipo": "",
         "categorias": [
             "Piel Hipersensible EUCERIN® Ultra SENSITIVE"
@@ -266,11 +259,10 @@
         "presentaciones": "50 ml",
         "uso": "Adultos\n Uso diario."
     },
-
-    "prod-11": {
+    {
+        "codigo": "prod-11",
         "nombre": "Anti Enrojecimiento Crema Facial Día FPS 25",
         "subnombre": "",
-        "url": "prod-11",
         "tipo": "",
         "categorias": [
             "Piel Hipersensible EUCERIN® Ultra SENSITIVE"
@@ -296,11 +288,10 @@
         "presentaciones": "50 ml",
         "uso": "Adultos\n Uso diario."
     },
-
-    "prod-12": {
+    {
+        "codigo": "prod-12",
         "nombre": "Q10 Active Crema Anti-Arrugas Día",
         "subnombre": "",
-        "url": "prod-12",
         "tipo": "",
         "categorias": [
             "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
@@ -320,11 +311,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (mañana)."
     },
-
-    "prod-13": {
+    {
+        "codigo": "prod-13",
         "nombre": "Q10 Active Crema Anti-Arrugas Noche",
         "subnombre": "",
-        "url": "prod-13",
         "tipo": "",
         "categorias": [
             "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
@@ -344,11 +334,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (noche)."
     },
-
-    "prod-14": {
+    {
+        "codigo": "prod-14",
         "nombre": "Q10 Active Fluido Antiarrugas FPS 15",
         "subnombre": "",
-        "url": "prod-14",
         "tipo": "",
         "categorias": [
             "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
@@ -368,11 +357,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (mañana)."
     },
-
-    "prod-15": {
+    {
+        "codigo": "prod-15",
         "nombre": "Q10 Active Crema Antiarrugas Contorno de Ojos FPS 15",
         "subnombre": "",
-        "url": "prod-15",
         "tipo": "",
         "categorias": [
             "Antiedad 25 - 35 años  EUCERIN® Q10 Active"
@@ -394,11 +382,10 @@
         "presentaciones": "15 ml",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-16": {
+    {
+        "codigo": "prod-16",
         "nombre": "Hyaluron-Filler Crema Facial Día",
         "subnombre": "",
-        "url": "prod-16",
         "tipo": "",
         "categorias": [
             "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
@@ -418,11 +405,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (mañana)."
     },
-
-    "prod-17": {
+    {
+        "codigo": "prod-17",
         "nombre": "Hyaluron-Filler Crema Facial Noche",
         "subnombre": "",
-        "url": "prod-17",
         "tipo": "",
         "categorias": [
             "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
@@ -444,11 +430,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (noche)."
     },
-
-    "prod-18": {
+    {
+        "codigo": "prod-18",
         "nombre": "Hyaluron-Filler Crema de Día para Piel Normal o Mixta",
         "subnombre": "",
-        "url": "prod-18",
         "tipo": "",
         "categorias": [
             "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
@@ -470,11 +455,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (mañana)."
     },
-
-    "prod-19": {
+    {
+        "codigo": "prod-19",
         "nombre": "Hyaluron-Filler Crema Contorno de Ojos",
         "subnombre": "",
-        "url": "prod-19",
         "tipo": "",
         "categorias": [
             "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
@@ -496,11 +480,10 @@
         "presentaciones": "15 ml",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-20": {
+    {
+        "codigo": "prod-20",
         "nombre": "Hyaluron-Filler Crema Contorno de Ojos FPS 15",
         "subnombre": "",
-        "url": "prod-20",
         "tipo": "",
         "categorias": [
             "Antiedad 35 - 45 años  EUCERIN® Hyaluron Filler"
@@ -522,11 +505,10 @@
         "presentaciones": "15 ml",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-21": {
+    {
+        "codigo": "prod-21",
         "nombre": "Hyaluron-Filler Serum/Concentrate",
         "subnombre": "",
-        "url": "prod-21",
         "tipo": "",
         "categorias": [
             "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity"
@@ -546,11 +528,10 @@
         "presentaciones": "6 tubos de 5 ml / 5 g c/u",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-22": {
+    {
+        "codigo": "prod-22",
         "nombre": "Hyaluron-Filler + Elasticity Crema Facial Día FPS 15",
         "subnombre": "",
-        "url": "prod-22",
         "tipo": "",
         "categorias": [
             "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity"
@@ -576,11 +557,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (noche)."
     },
-
-    "prod-23": {
+    {
+        "codigo": "prod-23",
         "nombre": "Hyaluron-Filler + Elasticity Aceite facial",
         "subnombre": "",
-        "url": "prod-23",
         "tipo": "",
         "categorias": [
             "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity"
@@ -604,11 +584,10 @@
         "presentaciones": "30 ml",
         "uso": "Diario (mañana y noche)."
     },
-
-    "prod-24": {
+    {
+        "codigo": "prod-24",
         "nombre": "Oil Control Toque Seco",
         "subnombre": "",
-        "url": "prod-24",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Protección  Solar - Rostro"
@@ -634,11 +613,10 @@
         "presentaciones": "50 ml",
         "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día)."
     },
-
-    "prod-25": {
+    {
+        "codigo": "prod-25",
         "nombre": "Sun Fluid Antiedad",
         "subnombre": "",
-        "url": "prod-25",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Protección  Solar - Rostro"
@@ -664,11 +642,10 @@
         "presentaciones": "50 ml",
         "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día). "
     },
-
-    "prod-26": {
+    {
+        "codigo": "prod-26",
         "nombre": "Sun CC Cream Photoaging",
         "subnombre": "",
-        "url": "prod-26",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Protección  Solar - Rostro"
@@ -694,11 +671,10 @@
         "presentaciones": "50 ml",
         "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día)."
     },
-
-    "prod-27": {
+    {
+        "codigo": "prod-27",
         "nombre": "Bloqueador Solar Sensación Extra ligera",
         "subnombre": "",
-        "url": "prod-27",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Protección  Solar  Corporal",
@@ -723,11 +699,10 @@
         "presentaciones": "150 ml",
         "uso": "Adultos \n Aplicar 20 minutos antes de la exposición (3 veces al día)."
     },
-
-    "prod-28": {
+    {
+        "codigo": "prod-28",
         "nombre": "Sun Spray Corporal Toque Seco",
         "subnombre": "",
-        "url": "prod-28",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Protección  Solar  Corporal"
@@ -751,11 +726,10 @@
         "presentaciones": "200 ml",
         "uso": "Adultos \n Aplicar 20 minutos antes de la exposición (3 veces al día)."
     },
-
-    "prod-29": {
+    {
+        "codigo": "prod-29",
         "nombre": "Kids Sun Lotion",
         "subnombre": "",
-        "url": "prod-29",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Protección  Solar  Corporal"
@@ -777,11 +751,10 @@
         "presentaciones": "150 ml",
         "uso": "Niños a partir de 1 año.\n Aplicar 20 minutos antes de la exposición, por 4 horas."
     },
-
-    "prod-30": {
+    {
+        "codigo": "prod-30",
         "nombre": "Ph5 Loción",
         "subnombre": "",
-        "url": "prod-30",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Cuidado"
@@ -805,11 +778,10 @@
         "presentaciones": "125, 250 y 400 ml",
         "uso": "Niños y adulto\n Diario cuantas veces sea necesario."
     },
-
-    "prod-31": {
+    {
+        "codigo": "prod-31",
         "nombre": "Ph5 Crema Intensiva",
         "subnombre": "",
-        "url": "prod-31",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Cuidado",
@@ -836,11 +808,10 @@
         "presentaciones": "450 ml",
         "uso": "Bebés, niños y adultos\n Diario cuantas veces sea necesario."
     },
-
-    "prod-32": {
+    {
+        "codigo": "prod-32",
         "nombre": "Ph5 Protector Labial",
         "subnombre": "",
-        "url": "prod-32",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Cuidado"
@@ -862,11 +833,10 @@
         "presentaciones": "4,8 gr",
         "uso": "Niños y adultos \n Diario cuantas veces sea necesario."
     },
-
-    "prod-33": {
+    {
+        "codigo": "prod-33",
         "nombre": "pH5 Syndet Gel",
         "subnombre": "NIÑOS +6 AÑOS",
-        "url": "prod-33",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Limpieza",
@@ -889,11 +859,10 @@
         "presentaciones": "250 ml",
         "uso": "Uso diario en la ducha."
     },
-
-    "prod-34": {
+    {
+        "codigo": "prod-34",
         "nombre": "pH5 Aceite de Ducha",
         "subnombre": "",
-        "url": "prod-34",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Limpieza",
@@ -918,11 +887,10 @@
         "presentaciones": "200 ml",
         "uso": "Uso diario en la ducha."
     },
-
-    "prod-35": {
+    {
+        "codigo": "prod-35",
         "nombre": "Higiene Íntima",
         "subnombre": "",
-        "url": "prod-35",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Limpieza"
@@ -944,11 +912,10 @@
         "presentaciones": "250 ml",
         "uso": "Uso diario en la ducha."
     },
-
-    "prod-36": {
+    {
+        "codigo": "prod-36",
         "nombre": "pH5 Baby Baño y Shampoo",
         "subnombre": "BEBES Y NIÑOS\n -6 AÑOS",
-        "url": "prod-36",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Limpieza"
@@ -970,11 +937,10 @@
         "presentaciones": "240 ml",
         "uso": "Uso diario en la ducha.\n Bebés y niños."
     },
-
-    "prod-37": {
+    {
+        "codigo": "prod-37",
         "nombre": "Urea Repair Plus Loción corporal",
         "subnombre": "",
-        "url": "prod-37",
         "tipo": "",
         "categorias": [
             "EUCERIN® Cuidado Corporal - Piel Extra Seca",
@@ -999,11 +965,10 @@
         "presentaciones": "250 ml",
         "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
     },
-
-    "prod-38": {
+    {
+        "codigo": "prod-38",
         "nombre": "Urea Repair Plus\n Urea Repair Plus",
         "subnombre": "",
-        "url": "prod-38",
         "tipo": "",
         "categorias": ["EUCERIN® Cuidado Corporal - Piel Extra Seca"],
         "recomendaciones": "Cuidado de los pies extremadamente secos y escamosos.",
@@ -1025,11 +990,10 @@
         "presentaciones": "100 ml",
         "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
     },
-
-    "prod-39": {
+    {
+        "codigo": "prod-39",
         "nombre": "Aquaphor",
         "subnombre": "",
-        "url": "prod-39",
         "tipo": "",
         "categorias": [
             "EUCERIN® Cuidado Corporal - Piel Extra Seca",
@@ -1054,11 +1018,10 @@
         "presentaciones": "55 ml",
         "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
     },
-
-    "prod-40": {
+    {
+        "codigo": "prod-40",
         "nombre": "Anti-Pigment Dual Serum Facial \n Dia/Noche",
         "subnombre": "",
-        "url": "prod-40",
         "tipo": "",
         "categorias": [
             "EUCERIN® Anti - Pigmento"
@@ -1084,11 +1047,10 @@
         "presentaciones": "30 ml",
         "uso": "Diario (Mañana y noche)."
     },
-
-    "prod-41": {
+    {
+        "codigo": "prod-41",
         "nombre": "Anti-Pigment Crema Facial Día",
         "subnombre": "",
-        "url": "prod-41",
         "tipo": "",
         "categorias": [
             "EUCERIN® Anti - Pigmento"
@@ -1114,11 +1076,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (Mañana)."
     },
-
-    "prod-42": {
+    {
+        "codigo": "prod-42",
         "nombre": "Anti-Pigment Crema Facial\n Noche",
         "subnombre": "",
-        "url": "prod-42",
         "tipo": "",
         "categorias": [
             "EUCERIN® Anti - Pigmento"
@@ -1144,11 +1105,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (Noche)."
     },
-
-    "prod-43": {
+    {
+        "codigo": "prod-43",
         "nombre": "Sun Pigment Control",
         "subnombre": "",
-        "url": "prod-43",
         "tipo": "Muy Alto FPS 50+",
         "categorias": [
             "EUCERIN® Anti - Pigmento"
@@ -1172,11 +1132,10 @@
         "presentaciones": "50 ml",
         "uso": "Aplicar 20 minutos antes de la exposición (3 veces al día)."
     },
-
-    "prod-44": {
+    {
+        "codigo": "prod-44",
         "nombre": "pH5 Syndet Barra",
         "subnombre": "",
-        "url": "prod-44",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Limpieza",
@@ -1199,11 +1158,10 @@
         "presentaciones": "100 gr",
         "uso": "Uso diario en la ducha."
     },
-
-    "prod-45": {
+    {
+        "codigo": "prod-45",
         "nombre": "pH5 Higiene Íntima",
         "subnombre": "",
-        "url": "prod-45",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Limpieza",
@@ -1226,11 +1184,10 @@
         "presentaciones": "250 ml",
         "uso": "Uso diario en la ducha."
     },
-
-    "prod-46": {
+    {
+        "codigo": "prod-46",
         "nombre": "pH5 Protector Labial",
         "subnombre": "",
-        "url": "prod-46",
         "tipo": "",
         "categorias": [
             "Piel Sensible EUCERIN® pH5 Cuidado",
@@ -1253,11 +1210,10 @@
         "presentaciones": "4,8g",
         "uso": "Niños y adultos.\n Diario cuantas veces sea necesario."
     },
-
-    "prod-47": {
+    {
+        "codigo": "prod-47",
         "nombre": "Crema Reparadora para Pies",
         "subnombre": "",
-        "url": "prod-47",
         "tipo": "",
         "categorias": [
             "EUCERIN® Anti - Pigmento"
@@ -1281,11 +1237,10 @@
         "presentaciones": "200 ml",
         "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario."
     },
-
-    "prod-48": {
+    {
+        "codigo": "prod-48",
         "nombre": "Eucerin Hyaluron-Filler Noche Serum Efecto Peeling",
         "subnombre": "",
-        "url": "prod-48",
         "tipo": "",
         "categorias": [
             ""
@@ -1309,11 +1264,10 @@
         "presentaciones": "30 ml",
         "uso": "Aplica en la noche sobre el rostro limpio, con movimientos suaves circulares ascendentes. Diario (Noche)"
     },
-
-    "prod-49": {
+    {
+        "codigo": "prod-49",
         "nombre": "Hyaluron-Filler + Elasticity Crema Facial de Noche",
         "subnombre": "",
-        "url": "prod-49",
         "tipo": "",
         "categorias": [
             "Antiedad +45 años EUCERIN® Hyaluron Filler Elasticity"
@@ -1339,11 +1293,10 @@
         "presentaciones": "50 ml",
         "uso": "Diario (noche)"
     },
-
-    "prod-50": {
+    {
+        "codigo": "prod-50",
         "nombre": "",
         "subnombre": "",
-        "url": "prod-50",
         "tipo": "",
         "categorias": [
             ""
@@ -1365,4 +1318,4 @@
         "presentaciones": "",
         "uso": ""
     }
-}
+]

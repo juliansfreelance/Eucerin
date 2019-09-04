@@ -15,7 +15,7 @@ import { SecaComponent } from './pages/seca/seca.component';
 import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.component';
 
 
-const app_routes: Routes = [
+const appRoutes: Routes = [
     { path: '', component: InicioComponent },
     { path: 'menu', component: MenuComponent },
     { path: 'antiedad25', component: EdadtwentyComponent },
@@ -34,7 +34,7 @@ const app_routes: Routes = [
 
 @NgModule ({
     imports: [
-      RouterModule.forRoot ( app_routes )
+      RouterModule.forRoot ( appRoutes )
     ],
     exports: [
       RouterModule
