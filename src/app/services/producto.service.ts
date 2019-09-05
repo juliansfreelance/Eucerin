@@ -7,15 +7,18 @@ import { ProductoInfo } from '../pages/interfaces/productoInfo.interface';
 })
 export class ProductoService {
   cargadoProducto = true;
+  productos: ProductoInfo[] = [];
   producto: ProductoInfo[] = [];
   constructor( private http: HttpClient ) {}
 
   cargarProducto( id: string ) {
     this.http.get('assets/data/dataProductos.json')
         .subscribe( (resp: ProductoInfo[]) => {
-          resp.forEach( ( prod ) => {
+          this.productos = resp;
+          this.productos.forEach( ( prod ) => {
             if ( prod.codigo === id ) {
-              this.producto = prod;
+              this.producto = [];
+              this.producto.push(prod);
             }
           });
           console.log(this.producto);

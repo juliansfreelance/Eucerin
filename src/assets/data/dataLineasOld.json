@@ -35,52 +35,9 @@
             ]
         },
         "rutinacorporal": {
-            "limpieza": [{
-                    "codigo": "prod-33",
-                    "nombre": "pH5 Syndet Gel"
-                },
-                {
-                    "codigo": "prod-44",
-                    "nombre": "pH5 Syndet Barra"
-                },
-                {
-                    "codigo": "prod-45",
-                    "nombre": "pH5 Higiene Íntima"
-                },
-                {
-                    "codigo": "prod-34",
-                    "nombre": "pH5 Aceite de Ducha"
-                }
-            ],
-            "cuidado": [{
-                    "codigo": "prod-30",
-                    "nombre": "Ph5 Loción"
-                },
-                {
-                    "codigo": "prod-32",
-                    "nombre": "Ph5 Protector Labial"
-                },
-                {
-                    "codigo": "prod-31",
-                    "nombre": "Ph5 Crema Intensiva"
-                },
-                {
-                    "codigo": "prod-37",
-                    "nombre": "Urea Repair Plus Loción corporal"
-                },
-                {
-                    "codigo": "prod-47",
-                    "nombre": "Crema Reparadora para Pies"
-                },
-                {
-                    "codigo": "prod-39",
-                    "nombre": "Aquaphor"
-                }
-            ],
-            "proteccion": [{
-                "codigo": "prod-27",
-                "nombre": "Bloqueador Solar Sensación Extra ligera"
-            }]
+            "limpieza": [],
+            "cuidado": [],
+            "proteccion": []
         }
     },
     {
@@ -127,52 +84,9 @@
             ]
         },
         "rutinacorporal": {
-            "limpieza": [{
-                    "codigo": "prod-33",
-                    "nombre": "pH5 Syndet Gel"
-                },
-                {
-                    "codigo": "prod-44",
-                    "nombre": "pH5 Syndet Barra"
-                },
-                {
-                    "codigo": "prod-45",
-                    "nombre": "pH5 Higiene Íntima"
-                },
-                {
-                    "codigo": "prod-34",
-                    "nombre": "pH5 Aceite de Ducha"
-                }
-            ],
-            "cuidado": [{
-                    "codigo": "prod-30",
-                    "nombre": "Ph5 Loción"
-                },
-                {
-                    "codigo": "prod-32",
-                    "nombre": "Ph5 Protector Labial"
-                },
-                {
-                    "codigo": "prod-31",
-                    "nombre": "Ph5 Crema Intensiva"
-                },
-                {
-                    "codigo": "prod-37",
-                    "nombre": "Urea Repair Plus Loción corporal"
-                },
-                {
-                    "codigo": "prod-47",
-                    "nombre": "Crema Reparadora para Pies"
-                },
-                {
-                    "codigo": "prod-39",
-                    "nombre": "Aquaphor"
-                }
-            ],
-            "proteccion": [{
-                "codigo": "prod-27",
-                "nombre": "Bloqueador Solar Sensación Extra ligera"
-            }]
+            "limpieza": [],
+            "cuidado": [],
+            "proteccion": []
         }
     },
     {
@@ -207,53 +121,11 @@
             ]
         },
         "rutinacorporal": {
-            "limpieza": [{
-                    "codigo": "prod-33",
-                    "nombre": "pH5 Syndet Gel"
-                },
-                {
-                    "codigo": "prod-44",
-                    "nombre": "pH5 Syndet Barra"
-                },
-                {
-                    "codigo": "prod-45",
-                    "nombre": "pH5 Higiene Íntima"
-                },
-                {
-                    "codigo": "prod-34",
-                    "nombre": "pH5 Aceite de Ducha"
-                }
-            ],
-            "cuidado": [{
-                    "codigo": "prod-30",
-                    "nombre": "Ph5 Loción"
-                },
-                {
-                    "codigo": "prod-32",
-                    "nombre": "Ph5 Protector Labial"
-                },
-                {
-                    "codigo": "prod-31",
-                    "nombre": "Ph5 Crema Intensiva"
-                },
-                {
-                    "codigo": "prod-37",
-                    "nombre": "Urea Repair Plus Loción corporal"
-                },
-                {
-                    "codigo": "prod-47",
-                    "nombre": "Crema Reparadora para Pies"
-                },
-                {
-                    "codigo": "prod-39",
-                    "nombre": "Aquaphor"
-                }
-            ],
-            "proteccion": [{
-                "codigo": "prod-27",
-                "nombre": "Bloqueador Solar Sensación Extra ligera"
-            }]
+            "limpieza": [],
+            "cuidado": [],
+            "proteccion": []
         }
+
     },
     {
         "linea": "antipigmento",
@@ -282,52 +154,9 @@
             }]
         },
         "rutinacorporal": {
-            "limpieza": [{
-                    "codigo": "prod-33",
-                    "nombre": "pH5 Syndet Gel"
-                },
-                {
-                    "codigo": "prod-44",
-                    "nombre": "pH5 Syndet Barra"
-                },
-                {
-                    "codigo": "prod-45",
-                    "nombre": "pH5 Higiene Íntima"
-                },
-                {
-                    "codigo": "prod-34",
-                    "nombre": "pH5 Aceite de Ducha"
-                }
-            ],
-            "cuidado": [{
-                    "codigo": "prod-30",
-                    "nombre": "Ph5 Loción"
-                },
-                {
-                    "codigo": "prod-32",
-                    "nombre": "Ph5 Protector Labial"
-                },
-                {
-                    "codigo": "prod-31",
-                    "nombre": "Ph5 Crema Intensiva"
-                },
-                {
-                    "codigo": "prod-37",
-                    "nombre": "Urea Repair Plus Loción corporal"
-                },
-                {
-                    "codigo": "prod-47",
-                    "nombre": "Crema Reparadora para Pies"
-                },
-                {
-                    "codigo": "prod-39",
-                    "nombre": "Aquaphor"
-                }
-            ],
-            "proteccion": [{
-                "codigo": "prod-27",
-                "nombre": "Bloqueador Solar Sensación Extra ligera"
-            }]
+            "limpieza": [],
+            "cuidado": [],
+            "proteccion": []
         }
     },
     {
@@ -366,49 +195,9 @@
             }]
         },
         "rutinacorporal": {
-            "limpieza": [{
-                    "codigo": "prod-33",
-                    "nombre": "pH5 Syndet Gel"
-                },
-                {
-                    "codigo": "prod-44",
-                    "nombre": "pH5 Syndet Barra"
-                },
-                {
-                    "codigo": "prod-45",
-                    "nombre": "pH5 Higiene Íntima"
-                },
-                {
-                    "codigo": "prod-34",
-                    "nombre": "pH5 Aceite de Ducha"
-                }
-            ],
-            "cuidado": [{
-                    "codigo": "prod-30",
-                    "nombre": "Ph5 Loción"
-                },
-                {
-                    "codigo": "prod-7",
-                    "nombre": "DA Control Crema de Cuidado Intensivo"
-                },
-                {
-                    "codigo": "prod-8",
-                    "nombre": "DA Control Loción Corporal"
-                },
-                {
-                    "codigo": "prod-39",
-                    "nombre": "Aquaphor"
-                }
-            ],
-            "proteccion": [{
-                    "codigo": "prod-28",
-                    "nombre": "Sun Spray Corporal Toque Seco"
-                },
-                {
-                    "codigo": "prod-27",
-                    "nombre": "Bloqueador Solar Sensación Extra ligera"
-                }
-            ]
+            "limpieza": [],
+            "cuidado": [],
+            "proteccion": []
         }
     },
     {
@@ -459,6 +248,7 @@
             "cuidado": [],
             "proteccion": []
         }
+
     },
     {
         "linea": "sensible",
@@ -565,49 +355,9 @@
             ]
         },
         "rutinacorporal": {
-            "limpieza": [{
-                    "codigo": "prod-33",
-                    "nombre": "pH5 Syndet Gel"
-                },
-                {
-                    "codigo": "prod-44",
-                    "nombre": "pH5 Syndet Barra"
-                },
-                {
-                    "codigo": "prod-45",
-                    "nombre": "pH5 Higiene Íntima"
-                },
-                {
-                    "codigo": "prod-34",
-                    "nombre": "pH5 Aceite de Ducha"
-                }
-            ],
-            "cuidado": [{
-                    "codigo": "prod-30",
-                    "nombre": "Ph5 Loción"
-                },
-                {
-                    "codigo": "prod-7",
-                    "nombre": "DA Control Crema de Cuidado Intensivo"
-                },
-                {
-                    "codigo": "prod-8",
-                    "nombre": "DA Control Loción Corporal"
-                },
-                {
-                    "codigo": "prod-39",
-                    "nombre": "Aquaphor"
-                }
-            ],
-            "proteccion": [{
-                    "codigo": "prod-28",
-                    "nombre": "Sun Spray Corporal Toque Seco"
-                },
-                {
-                    "codigo": "prod-27",
-                    "nombre": "Bloqueador Solar Sensación Extra ligera"
-                }
-            ]
+            "limpieza": [],
+            "cuidado": [],
+            "proteccion": []
         }
     },
     {

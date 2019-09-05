@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import * as M from '../../../assets/js/materialize.min.js';
+import { EdadthirtyService } from '../../services/edadthirty.service';
 
 @Component({
   selector: 'app-edadthirty',
@@ -8,7 +9,7 @@ import * as M from '../../../assets/js/materialize.min.js';
 })
 export class EdadthirtyComponent implements OnInit {
 
-  constructor() { }
+  constructor( public edadthirtyService: EdadthirtyService ) { }
 
   ngOnInit() {
     const instance = M.Tabs.init( document.querySelectorAll('.tabs'), {} );

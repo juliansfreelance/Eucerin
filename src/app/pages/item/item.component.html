@@ -1,26 +1,29 @@
-<body class="item">
-    <div class="row">
-        <div class="imagenPro col m4 s12">
-            <!-- <img src="assets/img/productos/{{ productoService.producto.codigo }}.jpg"> -->
-        </div>
-        <div class="descripPro col m8 s12">
+<body class="item valign-wrapper">
+    <div class="container ">
+        <div class="col s12 m7 ">
+            <div *ngFor="let producto of productoService.producto" class="card horizontal">
+                <div class="card-image">
+                    <img src="assets/img/productos/{{ producto.codigo }}.jpg">
+                </div>
+                <div class="card-stacked">
+                    <div class="card-content">
+                        <p>nombre: {{ producto.nombre }}</p>
+                        <p>tipo: {{ producto.tipo}}</p>
+                        <p>Recomendaciones: {{ producto.recomendaciones}}</p>
+                        <p>Beneficios: {{ producto.beneficios}}</p>
+                        <p>Componentes:</p>
+                        <ul>
+                            <li *ngFor="let componentes of producto.componentes">{{componentes.titulo}} {{componentes.descripcion}}</li>
+                        </ul>
+                        <p>Beneficios: {{ producto.presentaciones}}</p>
+                        <p>Uso: {{producto.uso}}</p>
 
-
-        </div>
-    </div>
-    <div class="col s12 m7">
-        <div class="card horizontal">
-            <div class="card-image">
-                <img src="assets/img/productos/{{ productoService.producto.codigo }}.jpg">
-            </div>
-            <div class="card-stacked">
-                <div class="card-content">
-                    <p>I am a very simple card. I am good at containing small bits of information.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="fixed-action-btn">
-        <a (click)="goBack()" class="btn-floating btn-large waves-effect waves-light materialize-eucerin-red"><i class="material-icons">close</i></a>
+        <a (click)="goBack()" class="btn-floating btn-large waves-effect waves-light materialize-eucerin-blue"><i class="material-icons">close</i></a>
     </div>
 </body>

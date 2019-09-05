@@ -19,26 +19,53 @@ import { ItemComponent } from './pages/item/item.component';
 const appRoutes: Routes = [
     { path: '', component: InicioComponent },
     { path: 'menu', component: MenuComponent },
-    { path: 'antiedad25', component: EdadtwentyComponent },
-    { path: 'antiedad35', component: EdadthirtyComponent },
-    { path: 'antiedad45', component: EdadfortyComponent },
+    { path: 'antiedad25', component: EdadtwentyComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'antiedad35', component: EdadthirtyComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'antiedad45', component: EdadfortyComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
     { path: 'antipigmento', component: AntipigmentoComponent,
     children: [
       { path: 'item/:id', component: ItemComponent }
     ]},
-    { path: 'pielgrasaomixta', component: GrasaComponent },
-    { path: 'bebesyniños', component: BebesComponent },
-    { path: 'pielsensible', component: SensibleComponent },
-    { path: 'pielhipersensible', component: HipersensibleComponent },
-    { path: 'pielseca', component: SecaComponent },
-    { path: 'pielsecaysuscomplicaciones', component: ComplicacionesComponent },
+    { path: 'pielgrasaomixta', component: GrasaComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'bebesyniños', component: BebesComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'pielsensible', component: SensibleComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'pielhipersensible', component: HipersensibleComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'pielseca', component: SecaComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'pielsecaysuscomplicaciones', component: ComplicacionesComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
     { path: '**', pathMatch: 'full', redirectTo: '' }
 ];
 
 
 @NgModule ({
     imports: [
-      RouterModule.forRoot ( appRoutes,{ useHash: true }  )
+      RouterModule.forRoot ( appRoutes, { useHash: true }  )
     ],
     exports: [
       RouterModule
