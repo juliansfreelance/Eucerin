@@ -8,7 +8,6 @@ import { AntipigmentoService } from 'src/app/services/antipigmento.service';
   styleUrls: ['./antipigmento.component.css']
 })
 export class AntipigmentoComponent implements OnInit {
-
   constructor( public antipigmentoService: AntipigmentoService ) { }
 
   ngOnInit() {

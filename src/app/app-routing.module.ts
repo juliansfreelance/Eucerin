@@ -13,6 +13,7 @@ import { SensibleComponent } from './pages/sensible/sensible.component';
 import { HipersensibleComponent } from './pages/hipersensible/hipersensible.component';
 import { SecaComponent } from './pages/seca/seca.component';
 import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.component';
+import { ItemComponent } from './pages/item/item.component';
 
 
 const appRoutes: Routes = [
@@ -21,7 +22,10 @@ const appRoutes: Routes = [
     { path: 'antiedad25', component: EdadtwentyComponent },
     { path: 'antiedad35', component: EdadthirtyComponent },
     { path: 'antiedad45', component: EdadfortyComponent },
-    { path: 'antipigmento', component: AntipigmentoComponent },
+    { path: 'antipigmento', component: AntipigmentoComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
     { path: 'pielgrasaomixta', component: GrasaComponent },
     { path: 'bebesyniños', component: BebesComponent },
     { path: 'pielsensible', component: SensibleComponent },
@@ -34,7 +38,7 @@ const appRoutes: Routes = [
 
 @NgModule ({
     imports: [
-      RouterModule.forRoot ( appRoutes )
+      RouterModule.forRoot ( appRoutes,{ useHash: true }  )
     ],
     exports: [
       RouterModule

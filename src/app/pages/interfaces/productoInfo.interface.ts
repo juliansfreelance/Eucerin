@@ -1,4 +1,4 @@
-export interface Producto {
+export interface ProductoInfo {
   codigo: string;
   nombre: string;
   subnombre: string;
@@ -10,7 +10,6 @@ export interface Producto {
   presentaciones: string;
   uso: string;
 }
-
 interface Componentes {
   titulo: string[];
   descripcion: string[];

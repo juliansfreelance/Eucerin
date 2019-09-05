@@ -1,7 +1,6 @@
 import { Injectable, ɵConsole } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { LineasInfo } from '../pages/interfaces/lineasInfo.interface';
-import * as M from '../../assets/js/materialize.min.js';
 
 @Injectable({
   providedIn: 'root'

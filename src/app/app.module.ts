@@ -19,6 +19,7 @@ import { SensibleComponent } from './pages/sensible/sensible.component';
 import { HipersensibleComponent } from './pages/hipersensible/hipersensible.component';
 import { SecaComponent } from './pages/seca/seca.component';
 import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.component';
+import { ItemComponent } from './pages/item/item.component';
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.c
     SensibleComponent,
     HipersensibleComponent,
     SecaComponent,
-    ComplicacionesComponent
+    ComplicacionesComponent,
+    ItemComponent
   ],
   imports: [
     BrowserModule,
