@@ -3,58 +3,88 @@
     height: calc(100% - 56px);
     width: 100%;
     overflow-y: auto;
-    padding:0px;
+    padding: 0px;
 }
-.productoImg,.productoText
-{
-    margin-top: 24px;
-    margin:0px;
-}
-.productoImg img {
-    width: 50%;
-    object-fit: contain;
-    object-position: center;
-}
-.contenedorText{
+
+.contenedorText {
     border: 2px solid rgba(167, 10, 45, 1);
 }
+
+.contenedorText div p {
+    margin: 0px;
+}
+
+.contenedorText div p span,
+.modal-close {
+    font-family: 'eucerinBold';
+}
+
+.modal-close {
+    font-size: 20px;
+}
+
 .contenedorText div {
-    padding:10px;
+    padding: 7px 12px;
     color: #fafafa;
     width: 100%;
-    text-align:center;
+    text-align: center;
     font-size: 18px;
     background: rgba(167, 10, 45, .7);
     border: 2px solid rgba(167, 10, 45, 1);
-    padding:0px;
 }
-.contenedorText div p{
-    margin:0px;
+
+.productoImg img {
+    width: 100%;
+    object-fit: contain;
+    object-position: center;
+    margin: auto;
 }
-.contenedorText div p span{
-    font-family: 'eucerinBold';
+
+@media only screen and (max-width: 600px) {
+    .productoImg img {
+        width: 50%;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        object-fit: contain;
+        object-position: center;
+    }
 }
+
+
+/* .productoImg,
+.productoText {
+    margin-top: 24px;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
 
 @media only screen and (min-width: 601px) {
     .modal.modal-fixed-footer .modal-content {
         overflow-y: hidden
     }
     .productoImg {
-        top:0px;
-        left:0px;
+        top: 0px;
+        left: 0px;
         height: calc(100% - 56px);
         max-height: 100%;
         overflow: hidden;
     }
     .productoText {
-        top:0px;
-        right:0px;
+        top: 0px;
+        right: 0px;
         height: calc(100% - 56px);
         max-height: 100%;
         overflow: auto;
-        
     }
     .productoImg img {
         width: 100%;
     }
-}
+} */

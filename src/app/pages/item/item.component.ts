@@ -15,7 +15,9 @@ export class ItemComponent implements OnInit {
                private route: ActivatedRoute,
                public productoService: ProductoService ) { }
   goBack() {
+    $('#productoModal').modal('close');
     this.location.back();
+    $('body').css('overflow', 'auto');
   }
   ngOnInit() {
     $('.modal').modal({ 'dismissible': false });

@@ -1,23 +1,39 @@
-<div id="productoModal" class="modal modal-fixed-footer">
-    <div *ngFor="let producto of productoService.producto" class="modal-content">
-        <div class="row valign-wrapper">
-            <div class="productoImg col s12 m4">
-                <img src="assets/img/productos/{{ producto.codigo }}.png"/>
+<body>
+    <div id="productoModal" class="modal modal-fixed-footer white">
+        <div *ngFor="let producto of productoService.producto" class="modal-content">
+            <div class="row">
+                <div class="productoImg col s12 m4">
+                    <img src="assets/img/productos/{{ producto.codigo }}.png" />
+                </div>
+                <div class="productoText col s12 m8">
+                    <div class="contenedorText">
+                        <div>
+                            <p><span>{{ producto.nombre }}</span></p>
+                        </div>
+                        <div>
+                            <p><span>Tipo: </span>{{ producto.tipo }}</p>
+                        </div>
+                        <div>
+                            <p><span>Recomendaciones: </span>{{ producto.recomendaciones}}</p>
+                        </div>
+                        <div>
+                            <p><span>Beneficios: </span>{{ producto.beneficios }}</p>
+                        </div>
+                        <div>
+                            <p *ngFor="let componentes of producto.componentes"><span>Componentes:</span><br><span>{{componentes.titulo}}</span> {{componentes.descripcion}}</p>
+                        </div>
+                        <div>
+                            <p><span>Beneficios:</span> {{ producto.presentaciones}}</p>
+                        </div>
+                        <div>
+                            <p><span>Uso:</span> {{producto.uso}}</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="productoText col s12 m8">
-                <div class="contenedorText">
-                    <div><p><span>{{ producto.nombre }}</span></p></div>
-                    <div><p><span>Tipo: </span>{{ producto.tipo }}</p></div>
-                    <div><p><span>Recomendaciones: </span>{{ producto.recomendaciones}}</p></div>
-                    <div><p><span>Beneficios: </span>{{ producto.beneficios }}</p></div>
-                    <div><p *ngFor="let componentes of producto.componentes"><span>Componentes:</span><br><span>{{componentes.titulo}}</span> {{componentes.descripcion}}</p></div>
-                    <div><p><span>Beneficios:</span> {{ producto.presentaciones}}</p></div>
-                    <div><p><span>Uso:</span> {{producto.uso}}</p></div>
-                </div>        
-            </div>
+        </div>
+        <div class="modal-footer">
+            <a (click)="goBack()" class="modal-close waves-effect waves-light btn-flat">Cerrar</a>
         </div>
     </div>
-    <div class="fixed-action-btn">
-            <a (click)="goBack()" class="modal-close btn-floating btn-large waves-effect waves-light materialize-eucerin-blue"><i class="material-icons">close</i></a>
-        </div>
-</div>
+</body>
