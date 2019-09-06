@@ -373,7 +373,7 @@
     },
     {
         "codigo": "prod-18",
-        "nombre": "Hyaluron-Filler Crema de Día para Piel Normal o Mixta",
+        "nombre": "Hyaluron-Filler Crema de Día para Piel Normal a Mixta",
         "tipo": "",
         "recomendaciones": "35 a 45 años.\n Piel normal a mixta.",
         "beneficios": "Fórmula ligera ideal para piel mixta, que rellena las arrugas desde adentro hacia afuera, estimulando la renovación propia de la piel. FPS 15.",
@@ -484,6 +484,36 @@
         ],
         "presentaciones": "50 ml",
         "uso": "Diario (noche)."
+    },
+    {
+        "codigo": "prod-49",
+        "nombre": "Hyaluron-Filler + Elasticity Crema Facial de Noche",
+        "tipo": "",
+        "recomendaciones": "+ 45 años.\nPiel normal a seca.",
+        "beneficios": "Nutre y fortalece la estructura de la piel de manera que mejora su elasticidad y rellena arrugas profundas haciendo que la piel se sienta firme y suave, con un aspecto fresco y radiante.",
+        "componentes": [{
+                "titulo": "Arctiina",
+                "descripcion": "de actividad probada para acelerar la renovación del colágeno en las células de la piel."
+            },
+            {
+                "titulo": "Silimarina",
+                "descripcion": "un poderoso antioxidante que protege el colágeno y la elastina frente a la degradación; mejora la circulación de la piel a nivel celular."
+            },
+            {
+                "titulo": "Ácido hialurónico de alto y bajo peso molecular",
+                "descripcion": "para rellenar las arrugas de manera visible."
+            },
+            {
+                "titulo": "Aceite de argán",
+                "descripcion": "rico en lípidos para el cuidado de la piel, apoya la regeneración y suaviza la superficie de la piel."
+            },
+            {
+                "titulo": "Hyaluron Elasticity filler",
+                "descripcion": ""
+            }
+        ],
+        "presentaciones": "50 ml",
+        "uso": "Diario (noche)"
     },
     {
         "codigo": "prod-23",
@@ -873,7 +903,7 @@
     },
     {
         "codigo": "prod-38",
-        "nombre": "Urea Repair Plus\n Urea Repair Plus",
+        "nombre": "Urea Repair Plus para pies",
         "tipo": "",
         "recomendaciones": "Cuidado de los pies extremadamente secos y escamosos.",
         "beneficios": "Alivio inmediato de la piel de los pies extremandamente secos y escamosos. 48 horas libre de síntomas",
@@ -1153,36 +1183,6 @@
         ],
         "presentaciones": "30 ml",
         "uso": "Aplica en la noche sobre el rostro limpio, con movimientos suaves circulares ascendentes. Diario (Noche)"
-    },
-    {
-        "codigo": "prod-49",
-        "nombre": "Hyaluron-Filler + Elasticity Crema Facial de Noche",
-        "tipo": "",
-        "recomendaciones": "+ 45 años.\nPiel normal a seca.",
-        "beneficios": "Nutre y fortalece la estructura de la piel de manera que mejora su elasticidad y rellena arrugas profundas haciendo que la piel se sienta firme y suave, con un aspecto fresco y radiante.",
-        "componentes": [{
-                "titulo": "Arctiina",
-                "descripcion": "de actividad probada para acelerar la renovación del colágeno en las células de la piel."
-            },
-            {
-                "titulo": "Silimarina",
-                "descripcion": "un poderoso antioxidante que protege el colágeno y la elastina frente a la degradación; mejora la circulación de la piel a nivel celular."
-            },
-            {
-                "titulo": "Ácido hialurónico de alto y bajo peso molecular",
-                "descripcion": "para rellenar las arrugas de manera visible."
-            },
-            {
-                "titulo": "Aceite de argán",
-                "descripcion": "rico en lípidos para el cuidado de la piel, apoya la regeneración y suaviza la superficie de la piel."
-            },
-            {
-                "titulo": "Hyaluron Elasticity filler",
-                "descripcion": ""
-            }
-        ],
-        "presentaciones": "50 ml",
-        "uso": "Diario (noche)"
     },
     {
         "codigo": "prod-50",

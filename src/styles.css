@@ -129,20 +129,26 @@ main {
 /* masory */
 
 .cards-container {
-    column-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    text-align: center;
 }
 
 .cards-container .card {
     display: inline-block;
     overflow: visible;
+    border-radius: 10px;
 }
 
 .card-content {
     padding: 0px!important;
+    border-radius: 10px;
 }
 
 .card-content img {
     width: 100%;
+    border-radius: 6px;
 }
 
 .card-content .card-title {
@@ -152,14 +158,12 @@ main {
 }
 
 .card {
-    border-radius: 10px;
     border-bottom: 5px solid #e0e0e0;
 }
 
 .card-content {
     outline: none;
     cursor: pointer;
-    border-radius: 10px;
 }
 
 @media only screen and (max-width: 359px) {
@@ -188,9 +192,9 @@ main {
 
 @media only screen and (min-width: 993px) {
     .cards-container {
-        -webkit-column-count: 4;
-        -moz-column-count: 4;
-        column-count: 4;
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
     }
 }
 

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as M from '../../../assets/js/materialize.min.js';
+import * as M from '../../../assets/js/materialize.js';
 import { BebesService } from 'src/app/services/bebes.service';
 
 @Component({
