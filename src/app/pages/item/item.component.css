@@ -2,19 +2,110 @@
     position: absolute;
     height: calc(100% - 56px);
     width: 100%;
-    overflow-y: auto;
-    padding: 0px;
+    overflow-y: hidden;
+    padding: 24px;
 }
 
-.contenedorText {
-    border: 2px solid rgba(167, 10, 45, 1);
+.uno {
+    border: 4px solid rgba(187, 214, 137, 1);
+}
+
+.uno div {
+    background: rgba(187, 214, 137, .3);
+    border: 1px solid rgba(187, 214, 137, 1);
+}
+
+.dos {
+    border: 4px solid rgba(207, 73, 85, 1);
+}
+
+.dos div {
+    background: rgba(207, 73, 85, .3);
+    border: 1px solid rgba(207, 73, 85, 1);
+}
+
+.tres {
+    border: 4px solid rgba(16, 45, 105, 1);
+}
+
+.tres div {
+    background: rgba(16, 45, 105, .3);
+    border: 1px solid rgba(16, 45, 105, 1);
+}
+
+.cuatro {
+    border: 4px solid rgba(246, 205, 0, 1);
+}
+
+.cuatro div {
+    background: rgba(246, 205, 0, .3);
+    border: 1px solid rgba(246, 205, 0, 1);
+}
+
+.cinco {
+    border: 4px solid rgb(144, 164, 174, 1);
+}
+
+.cinco div {
+    background: rgba(144, 164, 174, .3);
+    border: 1px solid rgba(144, 164, 174, 1);
+}
+
+.seis {
+    border: 4px solid rgb(161, 136, 127, 1);
+}
+
+.seis div {
+    background: rgba(161, 136, 127, .3);
+    border: 1px solid rgba(161, 136, 127, 1);
+}
+
+.siete {
+    border: 4px solid rgb(241, 137, 58, 1);
+}
+
+.siete div {
+    background: rgba(241, 137, 58, .3);
+    border: 1px solid rgba(241, 137, 58, 1);
+}
+
+.ocho {
+    border: 4px solid rgb(238, 116, 141, 1);
+}
+
+.ocho div {
+    background: rgba(238, 116, 141, .3);
+    border: 1px solid rgba(238, 116, 141, 1);
+}
+
+.nueve {
+    border: 4px solid rgb(247, 183, 177, 1);
+}
+
+.nueve div {
+    background: rgba(247, 183, 177, .3);
+    border: 1px solid rgba(247, 183, 177, 1);
+}
+
+.diez {
+    border: 4px solid rgb(0, 105, 180, 1);
+}
+
+.diez div {
+    background: rgba(0, 105, 180, .3);
+    border: 1px solid rgba(0, 105, 180, 1);
 }
 
 .contenedorText div p {
     margin: 0px;
 }
 
-.contenedorText div p span,
+.contenedorText .nombre {
+    font-size: 18px;
+}
+
+.contenedorText .titulo,
+.contenedorText p span,
 .modal-close {
     font-family: 'eucerinBold';
 }
@@ -25,66 +116,142 @@
 
 .contenedorText div {
     padding: 7px 12px;
-    color: #fafafa;
     width: 100%;
     text-align: center;
-    font-size: 18px;
-    background: rgba(167, 10, 45, .7);
-    border: 2px solid rgba(167, 10, 45, 1);
+    font-size: 16px;
+}
+
+.contenedorText .titulo {
+    padding: 7px 12px;
+    width: 100%;
+    background: #fafafa;
+}
+
+.productoImg {
+    width: auto;
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-in;
 }
 
 .productoImg img {
-    width: 100%;
-    object-fit: contain;
+    width: auto;
+    height: 100%;
+    max-height: 300px;
     object-position: center;
-    margin: auto;
+    object-fit: contain;
+    cursor: zoom-in;
 }
 
 @media only screen and (max-width: 600px) {
+    .modal.modal-fixed-footer .modal-content {
+        overflow-y: auto;
+    }
     .productoImg img {
         width: 50%;
-        margin-left: 50%;
-        transform: translateX(-50%);
-        object-fit: contain;
-        object-position: center;
-    }
-}
-
-
-/* .productoImg,
-.productoText {
-    margin-top: 24px;
-    margin: 0px;
-}
-
-
-
-
-
-
-
-
-
-
-@media only screen and (min-width: 601px) {
-    .modal.modal-fixed-footer .modal-content {
-        overflow-y: hidden
-    }
-    .productoImg {
-        top: 0px;
-        left: 0px;
-        height: calc(100% - 56px);
-        max-height: 100%;
-        overflow: hidden;
     }
     .productoText {
-        top: 0px;
-        right: 0px;
-        height: calc(100% - 56px);
-        max-height: 100%;
-        overflow: auto;
+        margin-top: 24px;
     }
-    .productoImg img {
+}
+
+@media only screen and (min-width: 601px) {
+    .modal-content {
+        overflow-y: hide!important;
+    }
+    .productoText {
         width: 100%;
+        height: 100%;
+        overflow-y: auto;
+        padding: 0!important;
     }
-} */
+    .row {
+        overflow-y: hide;
+        height: calc(100% - 4px);
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (min-height: 760px) and (min-width: 1100px) {
+    .productoText {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+.media div {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 1400;
+    will-change: opacity;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+}
+
+.media div #imagen {
+    cursor: zoom-out;
+    width: auto;
+    height: 75%;
+    top: 50%;
+    left: 50%;
+}
+
+.media div #caption {
+    cursor: zoom-out;
+    position: absolute;
+    color: #2a3742;
+    line-height: 1;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'eucerinBold';
+    font-size: 18px;
+    padding: 0px 12px;
+}
+
+.media div .cerrar {
+    position: absolute;
+    align-self: flex-start;
+    right: 0px;
+}
+
+.media div .cerrar i {
+    font-size: 25px!important;
+}

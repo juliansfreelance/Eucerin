@@ -31,7 +31,7 @@ export class GrasaService {
             this.grasaRCP = this.grasa[4].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoGrasa = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

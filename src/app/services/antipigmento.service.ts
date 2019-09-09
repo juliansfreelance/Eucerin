@@ -32,7 +32,7 @@ export class AntipigmentoService {
             this.antipigmentoRCP = this.antipigmento[3].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoAntipigmento = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

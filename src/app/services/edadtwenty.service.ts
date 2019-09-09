@@ -32,7 +32,7 @@ export class EdadtwentyService {
             this.edadtwentyRCP = this.edadtwenty[0].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoEdadtwenty = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

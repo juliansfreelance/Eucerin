@@ -28,10 +28,11 @@ main {
 
 .titulo p {
     background: linear-gradient(to right, rgba(167, 10, 45, 0) 0%, rgba(167, 10, 45, 0.57) 20%, rgba(167, 10, 45, 1) 100%);
-    padding: 10px 0px;
+    padding: 15px 0px;
     font-family: 'eucerinBold';
     font-size: 20px;
     color: white;
+    line-height: 1;
 }
 
 .titulo button {

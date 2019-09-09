@@ -31,7 +31,7 @@ export class HipersensibleService {
             this.hipersensibleRCP = this.hipersensible[7].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoHipersensible = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

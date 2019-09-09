@@ -125,25 +125,29 @@ main {
     font-family: 'eucerinBold';
 }
 
-
-/* masory */
-
 .cards-container {
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-    break-inside: avoid;
-    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
 
 .cards-container .card {
-    display: inline-block;
     overflow: visible;
     border-radius: 10px;
+    margin: 7px;
+    width: calc(100% - 14px);
 }
 
 .card-content {
+    height: 100%;
     padding: 0px!important;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .card-content img {
@@ -152,13 +156,15 @@ main {
 }
 
 .card-content .card-title {
-    padding: 0px 18px;
+    width: 100%;
+    padding: 0px 12px;
+    font-size: 1.1rem;
     text-align: center;
-    font-size: 1.2rem;
+    align-self: flex-end;
 }
 
 .card {
-    border-bottom: 5px solid #e0e0e0;
+    border-bottom: 4px solid #e0e0e0;
 }
 
 .card-content {
@@ -166,40 +172,28 @@ main {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 359px) {
-    .cards-container {
-        -webkit-column-count: 1;
-        -moz-column-count: 1;
-        column-count: 1;
+@media only screen and (max-width: 400px) {
+    .cards-container .card {
+        width: calc(100% - 14px);
     }
 }
 
-@media only screen and (min-width: 360px) {
-    .cards-container {
-        -webkit-column-count: 2;
-        -moz-column-count: 2;
-        column-count: 2;
+@media only screen and (min-width: 401px) {
+    .cards-container .card {
+        width: calc(50% - 14px);
     }
 }
 
-@media only screen and (min-width: 600px) {
-    .cards-container {
-        -webkit-column-count: 3;
-        -moz-column-count: 3;
-        column-count: 3;
+@media only screen and (min-width: 601px) {
+    .cards-container .card {
+        width: calc(33.3% - 14px);
     }
 }
 
 @media only screen and (min-width: 993px) {
-    .cards-container {
-        -webkit-column-count: 3;
-        -moz-column-count: 3;
-        column-count: 3;
+    .cards-container .card {
+        width: calc(25% - 14px);
     }
-}
-
-.text-center {
-    text-align: center;
 }
 
 .loader {

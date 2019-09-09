@@ -32,7 +32,7 @@ export class ComplicacionesService {
             this.complicacionesRCP = this.complicaciones[8].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoComplicaciones = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

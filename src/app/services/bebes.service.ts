@@ -11,6 +11,9 @@ export class BebesService {
   bebesRFL = [];
   bebesRFC = [];
   bebesRFP = [];
+  bebesRCL = [];
+  bebesRCC = [];
+  bebesRCP = [];
 
   constructor( private http: HttpClient ) {
     this.cargarBebes();
@@ -24,9 +27,12 @@ export class BebesService {
             this.bebesRFL = this.bebes[5].rutinafacial.limpieza;
             this.bebesRFC = this.bebes[5].rutinafacial.cuidado;
             this.bebesRFP = this.bebes[5].rutinafacial.proteccion;
+            this.bebesRCL = this.bebes[5].rutinacorporal.limpieza;
+            this.bebesRCC = this.bebes[5].rutinacorporal.cuidado;
+            this.bebesRCP = this.bebes[5].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoBebes = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

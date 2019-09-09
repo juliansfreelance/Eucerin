@@ -32,7 +32,7 @@ export class SensibleService {
             this.sensibleRCP = this.sensible[6].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoSensible = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

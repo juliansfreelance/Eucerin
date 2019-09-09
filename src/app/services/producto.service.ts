@@ -12,6 +12,7 @@ export class ProductoService {
   constructor( private http: HttpClient ) {}
 
   cargarProducto( id: string ) {
+    this.cargadoProducto  = true;
     this.http.get('assets/data/dataProductos.json')
         .subscribe( (resp: ProductoInfo[]) => {
           this.productos = resp;
@@ -24,7 +25,7 @@ export class ProductoService {
           console.log(this.producto);
           setTimeout(() => {
             this.cargadoProducto  = false;
-          }, 1600);
+          }, Math.floor(Math.random() * (1200 - 400)) + 400 );
       });
   }
 }

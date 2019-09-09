@@ -32,7 +32,7 @@ export class SecaService {
             this.secaRCP = this.seca[9].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoSeca = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });

@@ -31,7 +31,7 @@ export class EdadfortyService {
             this.edadfortyRCP = this.edadforty[2].rutinacorporal.proteccion;
             setTimeout(() => {
               this.cargadoEdadforty = false;
-            }, 1600);
+            }, Math.floor(Math.random() * (1600 - 600)) + 600);
             resolve();
           });
     });
