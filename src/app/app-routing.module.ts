@@ -14,6 +14,7 @@ import { HipersensibleComponent } from './pages/hipersensible/hipersensible.comp
 import { SecaComponent } from './pages/seca/seca.component';
 import { ComplicacionesComponent } from './pages/complicaciones/complicaciones.component';
 import { ItemComponent } from './pages/item/item.component';
+import { SearchComponent } from './pages/search/search.component';
 
 
 const appRoutes: Routes = [
@@ -56,6 +57,10 @@ const appRoutes: Routes = [
       { path: 'item/:id', component: ItemComponent }
     ]},
     { path: 'pielsecaysuscomplicaciones', component: ComplicacionesComponent,
+    children: [
+      { path: 'item/:id', component: ItemComponent }
+    ]},
+    { path: 'buscar', component: SearchComponent,
     children: [
       { path: 'item/:id', component: ItemComponent }
     ]},
