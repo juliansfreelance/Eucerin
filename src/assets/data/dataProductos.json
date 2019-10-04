@@ -526,7 +526,7 @@
     },
     {
         "codigo": "prod-22",
-        "nombre": "Hyaluron-Filler + Elasticity Crema Facial de Día FPS 15",
+        "nombre": "Hyaluron Elasticity Filler Crema Facial de Día",
         "subtitulo": "",
         "categoria": "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity",
         "tipo": "",
@@ -559,7 +559,7 @@
     },
     {
         "codigo": "prod-23",
-        "nombre": "Hyaluron-Filler + Elasticity Crema Facial de Noche",
+        "nombre": "Hyaluron Elasticity Filler Crema Facial Noche",
         "subtitulo": "",
         "categoria": "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity",
         "tipo": "",
@@ -574,8 +574,8 @@
                 "descripcion": "un poderoso antioxidante que protege el colágeno y la elastina frente a la degradación; mejora la circulación de la piel a nivel celular."
             },
             {
-                "titulo": "Ácido hialurónico de alto y bajo peso molecular",
-                "descripcion": "para rellenar las arrugas de manera visible."
+                "titulo": "Ácido hialurónico",
+                "descripcion": "de alto y bajo peso molecular para rellenar las arrugas de manera visible."
             },
             {
                 "titulo": "Aceite de argán",
@@ -592,7 +592,7 @@
     },
     {
         "codigo": "prod-24",
-        "nombre": "Hyaluron-Filler + Elasticity Óleo facial",
+        "nombre": "Hyaluron Elasticity Filler Aceite Facial",
         "subtitulo": "",
         "categoria": "Antiedad +45 años  EUCERIN® Hyaluron Filler Elasticity",
         "tipo": "",
@@ -637,10 +637,10 @@
             },
             {
                 "titulo": "L-Carnitina:",
-                "descripcion": "Seborregulador que elimina la grasa de la piel que produce el acné; Al mismo tiempo protege del sol. Pigmentos"
+                "descripcion": "Seborregulador que elimina la grasa de la piel que produce el acné; Al mismo tiempo protege del sol."
             },
             {
-                "titulo": "lípidoabsorbentes:",
+                "titulo": "Pigmentos lípidoabsorbentes:",
                 "descripcion": "Acabado mate, efecto anti-brillo y textura no pegajosa."
             },
             {
@@ -687,7 +687,7 @@
     },
     {
         "codigo": "prod-27",
-        "nombre": "Sun CC Cream Photoaging",
+        "nombre": "Photoaging Control Sun Creme Con Color",
         "subtitulo": "",
         "categoria": "EUCERIN® Protección  Solar - Rostro",
         "tipo": "Muy Alto FPS 50+",
@@ -711,7 +711,11 @@
             },
             {
                 "titulo": "Ácido hyalurónico:",
-                "descripcion": "Reduce arrugas profundas, líneas finas e hidrata.\nTecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS)."
+                "descripcion": "Reduce arrugas profundas, líneas finas e hidrata."
+            },
+            {
+                "titulo": "Tecnología Espectral Avanzada contra los rayos UVA /UVB, luz azul y visible de alta energía (HEVIS).",
+                "descripcion": ""
             }
         ],
         "presentaciones": "50 ml",
@@ -999,7 +1003,7 @@
     },
     {
         "codigo": "prod-38",
-        "nombre": "Higiene Íntima",
+        "nombre": "pH5 Higiene Íntima",
         "subtitulo": "",
         "categoria": "Piel Sensible EUCERIN® pH5 Cuidado",
         "tipo": "",
@@ -1024,7 +1028,7 @@
     },
     {
         "codigo": "prod-39",
-        "nombre": "Baby Baño y Shampoo",
+        "nombre": "pH5 Baby Baño y Shampoo",
         "subtitulo": "BEBES Y NIÑOS +6 AÑOS",
         "categoria": "Piel Sensible EUCERIN® pH5 Cuidado",
         "tipo": "",
@@ -1049,7 +1053,7 @@
     },
     {
         "codigo": "prod-40",
-        "nombre": "Anti-Pigment Dual Serum Facial Dia/Noche",
+        "nombre": "Anti-Pigment Serum Facial Dual",
         "subtitulo": "",
         "categoria": "EUCERIN® Anti - Pigmento",
         "tipo": "",
@@ -1105,8 +1109,8 @@
                 "descripcion": "Rápida absorción y efecto mate."
             },
             {
-                "titulo": "Crema facial ligera de aplicación diurna.",
-                "descripcion": ""
+                "titulo": "",
+                "descripcion": "Crema facial ligera de aplicación diurna."
             }
         ],
         "presentaciones": "50 ml",
@@ -1138,8 +1142,8 @@
                 "descripcion": "Apoya los mecanismos de regeneración celular."
             },
             {
-                "titulo": "Crema facial ligera de aplicación nocturna.",
-                "descripcion": ""
+                "titulo": "",
+                "descripcion": "Crema facial ligera de aplicación nocturna."
             }
         ],
         "presentaciones": "50 ml",
@@ -1148,7 +1152,7 @@
     },
     {
         "codigo": "prod-43",
-        "nombre": "Urea Repair Plus",
+        "nombre": "Urea Repair Loción corporal",
         "subtitulo": "",
         "categoria": "EUCERIN® Cuidado Corporal - Piel Extra Seca",
         "tipo": "",
@@ -1183,20 +1187,23 @@
         "tipo": "",
         "recomendaciones": "Cuidado de los pies extremadamente secos y escamosos.",
         "beneficios": "Alivio inmediato de la piel de los pies extremandamente secos y escamosos. 48 horas libre de síntomas",
-        "componentes": {
-            "titulo": [
-                "Urea 10%:",
-                "Ácido láctico:",
-                "Ceramidas:",
-                "Glucoglicerol:"
-            ],
-            "descripcion": [
-                "Hidrata la piel formando una barrera protectora, evitando que haya pérdida continua de agua en la piel.",
-                "Exfolia de forma suave las escamas que se presentan en esta zona.",
-                "Repara la función de protección de la piel, brindando buena hidratación.",
-                "Estimula las aquaporinas en la piel, de esta forma, hay mayor circulación de agua en ella, brindando una hidratación óptima hasta en las capas más profundas."
-            ]
-        },
+        "componentes": [{
+                "titulo": "Urea 10%:",
+                "descripcion": "Hidrata la piel formando una barrera protectora, evitando que haya pérdida continua de agua en la piel."
+            },
+            {
+                "titulo": "Ácido láctico:",
+                "descripcion": "Exfolia de forma suave las escamas que se presentan en esta zona."
+            },
+            {
+                "titulo": "Ceramidas:",
+                "descripcion": "Repara la función de protección de la piel, brindando buena hidratación."
+            },
+            {
+                "titulo": "Glucoglicerol:",
+                "descripcion": "Estimula las aquaporinas en la piel, de esta forma, hay mayor circulación de agua en ella, brindando una hidratación óptima hasta en las capas más profundas."
+            }
+        ],
         "presentaciones": "100 ml",
         "uso": "Adultos\n 2 veces al día o cuantas veces sea necesario.",
         "color": "diez"
@@ -1226,7 +1233,7 @@
                 "descripcion": "Preservantes, parabenos, parafinas, fragancias, alcohol, emulsificantes, colorantes."
             }
         ],
-        "presentaciones": "50 ml",
+        "presentaciones": "55 ml",
         "uso": "Adultos\n2 veces al día o cuantas veces sea necesario.",
         "color": "diez"
     }
