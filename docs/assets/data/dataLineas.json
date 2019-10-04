@@ -1,0 +1,805 @@
+[{
+        "linea": "edad-25",
+        "nombre": "EDAD 25 A 35 AÑOS",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-2",
+                "nombre": "DermoPure OIL CONTROL Agua Micelar"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-12",
+                    "nombre": "Q10 Active Crema Anti-Arrugas Día"
+                },
+                {
+                    "codigo": "prod-13",
+                    "nombre": "Q10 Active Crema Anti-Arrugas Noche"
+
+                },
+                {
+                    "codigo": "prod-14",
+                    "nombre": "Q10 Active Fluido Antiarrugas FPS 15"
+                },
+                {
+                    "codigo": "prod-15",
+                    "nombre": "Q10 Active Crema Antiarrugas Contorno de Ojos"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                },
+                {
+                    "codigo": "prod-37",
+                    "nombre": "pH5 Aceite de Ducha"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-34",
+                    "nombre": "Ph5 Protector Labial"
+                },
+                {
+                    "codigo": "prod-33",
+                    "nombre": "Ph5 Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-43",
+                    "nombre": "Urea Repair Loción corporal"
+                },
+                {
+                    "codigo": "prod-44",
+                    "nombre": "Crema Reparadora para Pies"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    },
+    {
+        "linea": "edad-35",
+        "nombre": "EDAD 35 A 45 AÑOS",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-2",
+                "nombre": "DermoPure OIL CONTROL Agua Micelar"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-16",
+                    "nombre": "Hyaluron-Filler Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-17",
+                    "nombre": "Hyaluron-Filler Crema Facial Noche"
+                },
+                {
+                    "codigo": "prod-18",
+                    "nombre": "Hyaluron-Filler Crema de Día para Piel Normal o Mixta"
+                },
+                {
+                    "codigo": "prod-19",
+                    "nombre": "Hyaluron-Filler Crema Contorno de Ojos"
+                },
+                {
+                    "codigo": "prod-20",
+                    "nombre": "Hyaluron-Filler Serum/Concentrate"
+                },
+                {
+                    "codigo": "prod-21",
+                    "nombre": "Hyaluron-Filler Serum de Noche Efecto Peeling"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                },
+                {
+                    "codigo": "prod-37",
+                    "nombre": "pH5 Aceite de Ducha"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-34",
+                    "nombre": "Ph5 Protector Labial"
+                },
+                {
+                    "codigo": "prod-33",
+                    "nombre": "Ph5 Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-43",
+                    "nombre": "Urea Repair Loción corporal"
+                },
+                {
+                    "codigo": "prod-44",
+                    "nombre": "Crema Reparadora para Pies"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    },
+    {
+        "linea": "edad-45",
+        "nombre": "EDAD +45 AÑOS",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-2",
+                "nombre": "DermoPure OIL CONTROL Agua Micelar"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-22",
+                    "nombre": "Hyaluron Elasticity Filler Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-23",
+                    "nombre": "Hyaluron Elasticity Filler Crema Facial Noche"
+                },
+                {
+                    "codigo": "prod-24",
+                    "nombre": "Hyaluron Elasticity Filler Aceite Facial"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                },
+                {
+                    "codigo": "prod-37",
+                    "nombre": "pH5 Aceite de Ducha"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-34",
+                    "nombre": "Ph5 Protector Labial"
+                },
+                {
+                    "codigo": "prod-33",
+                    "nombre": "Ph5 Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-43",
+                    "nombre": "Urea Repair Loción corporal"
+                },
+                {
+                    "codigo": "prod-44",
+                    "nombre": "Crema Reparadora para Pies"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    },
+    {
+        "linea": "antipigmento",
+        "nombre": "ANTIPIGMENTO",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-2",
+                "nombre": "DermoPure OIL CONTROL Agua Micelar"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-40",
+                    "nombre": "Anti-Pigment Serum Facial Dual"
+                },
+                {
+                    "codigo": "prod-41",
+                    "nombre": "Anti-Pigment Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-42",
+                    "nombre": "Anti-Pigment Crema Facial Noche"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-31",
+                "nombre": "Sun Pigment Control"
+            }]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-37",
+                    "nombre": "pH5 Aceite de Ducha"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-34",
+                    "nombre": "Ph5 Protector Labial"
+                },
+                {
+                    "codigo": "prod-33",
+                    "nombre": "Ph5 Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-43",
+                    "nombre": "Urea Repair Loción corporal"
+                },
+                {
+                    "codigo": "prod-44",
+                    "nombre": "Crema Reparadora para Pies"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    },
+    {
+        "linea": "grasa",
+        "nombre": "PIEL GRASA O MIXTA",
+        "rutinafacial": {
+            "limpieza": [{
+                    "codigo": "prod-1",
+                    "nombre": "DermoPure OIL CONTROL Gel Limpiador"
+                },
+                {
+                    "codigo": "prod-2",
+                    "nombre": "DermoPure OIL CONTROL Agua Micelar"
+                },
+                {
+                    "codigo": "prod-3",
+                    "nombre": "DermoPure OIL CONTROL Exfoliante "
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-4",
+                    "nombre": "DermoPure OIL CONTROL Tratamiento Intensivo Noche"
+                },
+                {
+                    "codigo": "prod-5",
+                    "nombre": "DermoPure OIL CONTROL Hidratante Matificante"
+                },
+                {
+                    "codigo": "prod-6",
+                    "nombre": "DermoPure OIL CONTROL Cover Stick corrector"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-25",
+                "nombre": "Oil Control Toque Seco"
+            }]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                }
+            ],
+            "cuidado": [{
+                "codigo": "prod-32",
+                "nombre": "Ph5 Loción"
+            }],
+            "proteccion": [{
+                "codigo": "prod-29",
+                "nombre": "Sun Spray Corporal Toque Seco"
+            }]
+        }
+    },
+    {
+        "linea": "bebes",
+        "nombre": "BEBES Y NIÑOS",
+        "rutinafacial": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel NIÑOS +6 AÑOS"
+                },
+                {
+                    "codigo": "prod-39",
+                    "nombre": "pH5 Baby Baño y Shampoo BEBES Y NIÑOS -6 AÑOS"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-33",
+                    "nombre": "Ph5 Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+
+            ],
+            "proteccion": [{
+                "codigo": "prod-30",
+                "nombre": "Kids Sun Lotion"
+            }]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                "codigo": "prod-37",
+                "nombre": "pH5 Aceite de Ducha"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-7",
+                    "nombre": "DA Control Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-8",
+                    "nombre": "DA Control Loción Corporal"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-30",
+                "nombre": "Kids Sun Lotion"
+            }]
+        }
+    },
+    {
+        "linea": "sensible",
+        "nombre": "PIEL SENSIBLE",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-2",
+                "nombre": "DermoPure OIL CONTROL Agua Micelar"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-12",
+                    "nombre": "Q10 Active Crema Anti-Arrugas Día"
+                },
+                {
+                    "codigo": "prod-13",
+                    "nombre": "Q10 Active Crema Anti-Arrugas Noche"
+                },
+                {
+                    "codigo": "prod-14",
+                    "nombre": "Q10 Active Fluido Antiarrugas FPS 15"
+                },
+                {
+                    "codigo": "prod-15",
+                    "nombre": "Q10 Active Crema Antiarrugas Contorno de Ojos FPS 15"
+                },
+                {
+                    "codigo": "prod-16",
+                    "nombre": "Hyaluron-Filler Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-17",
+                    "nombre": "Hyaluron-Filler Crema Facial Noche"
+                },
+                {
+                    "codigo": "prod-18",
+                    "nombre": "Hyaluron-Filler Crema de Día para Piel Normal o Mixta"
+                },
+                {
+                    "codigo": "prod-19",
+                    "nombre": "Hyaluron-Filler Crema Contorno de Ojos"
+                },
+                {
+                    "codigo": "prod-20",
+                    "nombre": "Hyaluron-Filler Serum/Concentrate"
+                },
+                {
+                    "codigo": "prod-21",
+                    "nombre": "Eucerin Hyaluron-Filler Noche Serum Efecto Peeling"
+                },
+                {
+                    "codigo": "prod-22",
+                    "nombre": "Hyaluron Elasticity Filler Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-23",
+                    "nombre": "Hyaluron Elasticity Filler Crema Facial Noche"
+                },
+                {
+                    "codigo": "prod-24",
+                    "nombre": "Hyaluron Elasticity Filler Aceite Facial"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-34",
+                    "nombre": "Ph5 Protector Labial"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    },
+    {
+        "linea": "hsensible",
+        "nombre": "HIPERSENSIBLE",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-9",
+                "nombre": "Ultra Sensitive Loción Facial Limpiadora"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-10",
+                    "nombre": "Ultra Sensitive Crema Facial Fluida"
+                },
+                {
+                    "codigo": "prod-11",
+                    "nombre": "Anti Enrojecimiento Crema Facial Día FPS 25"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-35",
+                    "nombre": "pH5 Syndet Gel"
+                },
+                {
+                    "codigo": "prod-36",
+                    "nombre": "pH5 Syndet Barra"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                },
+                {
+                    "codigo": "prod-37",
+                    "nombre": "pH5 Aceite de Ducha"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-32",
+                    "nombre": "Ph5 Loción"
+                },
+                {
+                    "codigo": "prod-7",
+                    "nombre": "DA Control Crema de Cuidado Intensivo"
+                },
+                {
+                    "codigo": "prod-8",
+                    "nombre": "DA Control Loción Corporal"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-29",
+                    "nombre": "Sun Spray Corporal Toque Seco"
+                },
+                {
+                    "codigo": "prod-28",
+                    "nombre": "Bloqueador Solar Sensación Extra ligera"
+                }
+            ]
+        }
+    },
+    {
+        "linea": "seca",
+        "nombre": "PIEL SECA Y SUS COMPLICACIONES",
+        "rutinafacial": {
+            "limpieza": [{
+                    "codigo": "prod-1",
+                    "nombre": "DermoPure OIL CONTROL Gel Limpiador"
+                },
+                {
+                    "codigo": "prod-2",
+                    "nombre": "DermoPure OIL CONTROL Agua Micelar"
+                },
+                {
+                    "codigo": "prod-3",
+                    "nombre": "DermoPure OIL CONTROL Exfoliante"
+                },
+                {
+                    "codigo": "prod-9",
+                    "nombre": "Ultra Sensitive Loción Facial Limpiadora"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-4",
+                    "nombre": "DermoPure OIL CONTROL Tratamiento Intensivo Noche"
+                },
+                {
+                    "codigo": "prod-5",
+                    "nombre": "DermoPure OIL CONTROL Hidratante Matificante"
+                },
+                {
+                    "codigo": "prod-6",
+                    "nombre": "DermoPure OIL CONTROL Cover Stick corrector"
+                },
+                {
+                    "codigo": "prod-10",
+                    "nombre": "Ultra Sensitive Crema Facial Fluida"
+                },
+                {
+                    "codigo": "prod-11",
+                    "nombre": "Anti Enrojecimiento Crema Facial Día FPS 25"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-25",
+                    "nombre": "Oil Control Toque Seco"
+                },
+                {
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                "codigo": "prod-37",
+                "nombre": "pH5 Aceite de Ducha"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-7",
+                    "nombre": "DA Control Crema de Cuidado Intensivo"
+                },
+                {
+                    "codigo": "prod-8",
+                    "nombre": "DA Control Loción Corporal"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    },
+    {
+        "linea": "Xseca",
+        "nombre": "PIEL SECA",
+        "rutinafacial": {
+            "limpieza": [{
+                "codigo": "prod-2",
+                "nombre": "DermoPure OIL CONTROL Agua Micelar"
+            }],
+            "cuidado": [{
+                    "codigo": "prod-12",
+                    "nombre": "Q10 Active Crema Anti-Arrugas Día"
+                },
+                {
+                    "codigo": "prod-13",
+                    "nombre": "Q10 Active Crema Anti-Arrugas Noche"
+                },
+                {
+                    "codigo": "prod-14",
+                    "nombre": "Q10 Active Fluido Antiarrugas FPS 15"
+                },
+                {
+                    "codigo": "prod-15",
+                    "nombre": "Q10 Active Crema Antiarrugas Contorno de Ojos FPS 15"
+                },
+                {
+                    "codigo": "prod-16",
+                    "nombre": "Hyaluron-Filler Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-17",
+                    "nombre": "Hyaluron-Filler Crema Facial Noche"
+                },
+                {
+                    "codigo": "prod-18",
+                    "nombre": "Hyaluron-Filler Crema de Día para Piel Normal o Mixta"
+                },
+                {
+                    "codigo": "prod-19",
+                    "nombre": "Hyaluron-Filler Crema Contorno de Ojos"
+                },
+                {
+                    "codigo": "prod-20",
+                    "nombre": "Hyaluron-Filler Serum/Concentrate"
+                },
+                {
+                    "codigo": "prod-21",
+                    "nombre": "Eucerin Hyaluron-Filler Noche Serum Efecto Peeling"
+                },
+                {
+                    "codigo": "prod-22",
+                    "nombre": "Hyaluron Elasticity Filler Crema Facial Día"
+                },
+                {
+                    "codigo": "prod-23",
+                    "nombre": "Hyaluron Elasticity Filler Crema Facial Noche"
+                },
+                {
+                    "codigo": "prod-24",
+                    "nombre": "Hyaluron Elasticity Filler Aceite Facial"
+                }
+            ],
+            "proteccion": [{
+                    "codigo": "prod-26",
+                    "nombre": "Sun Fluid Antiedad"
+                },
+                {
+                    "codigo": "prod-27",
+                    "nombre": "Photoaging Control Sun Creme Con Color"
+                }
+            ]
+        },
+        "rutinacorporal": {
+            "limpieza": [{
+                    "codigo": "prod-37",
+                    "nombre": "pH5 Aceite de Ducha"
+                },
+                {
+                    "codigo": "prod-38",
+                    "nombre": "pH5 Higiene Íntima"
+                }
+            ],
+            "cuidado": [{
+                    "codigo": "prod-33",
+                    "nombre": "Ph5 Crema Intensiva"
+                },
+                {
+                    "codigo": "prod-43",
+                    "nombre": "Urea Repair Loción corporal"
+                },
+                {
+                    "codigo": "prod-44",
+                    "nombre": "Crema Reparadora para Pies"
+                },
+                {
+                    "codigo": "prod-45",
+                    "nombre": "Aquaphor"
+                }
+            ],
+            "proteccion": [{
+                "codigo": "prod-28",
+                "nombre": "Bloqueador Solar Sensación Extra ligera"
+            }]
+        }
+    }
+]
